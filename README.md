@@ -1,3 +1,9 @@
+# SNN Top Conference Paper
+
+👋 This repo collects top conference papers, codes about **Spiking Neural Networks** for anyone who wants to do research on it. We are continuously improving the project.
+
+🤗 Welcome anyone who is interested to contribute to the repo together !
+
 - [SNN Top Conference Paper 2023](#snn-top-conference-paper-2023)
   * [AAAI (Association for the Advancement of Artificial Intelligence)](#aaai-association-for-the-advancement-of-artificial-intelligence)
   * [ICASSP (IEEE International Conference on Acoustics, Speech and Signal Processing)](#icassp-ieee-international-conference-on-acoustics-speech-and-signal-processing)
@@ -6,17 +12,14 @@
 
 # SNN Top Conference Paper 2023
 
-Including ICASSP, AAAI, ICLR, Neural Networks...
-
-Updating...
 
 ## AAAI (Association for the Advancement of Artificial Intelligence)
 
-- [Deep Spiking Neural Networks with High Representation Similarity Model Visual Pathways of Macaque and Mouse](https://arxiv.org/abs/2303.06060)
+- [Deep Spiking Neural Networks with High Representation Similarity Model Visual Pathways of Macaque and Mouse](https://arxiv.org/abs/2303.06060) [[Code](https://github.com/hzc1208/ANN2SNN_SRP)]
 
-- [Exploring Temporal Information Dynamics in Spiking Neural Networks](https://arxiv.org/abs/2211.14406)
+- [Exploring Temporal Information Dynamics in Spiking Neural Networks](https://arxiv.org/abs/2211.14406) [[Code](https://github.com/intelligent-computing-lab-yale/exploring-temporal-information-dynamics-in-spiking-neural-networks)]
 
-- [Reducing ANN-SNN Conversion Error through Residual Membrane Potential](https://arxiv.org/abs/2302.02091)
+- [Reducing ANN-SNN Conversion Error through Residual Membrane Potential](https://arxiv.org/abs/2302.02091) [[Code](https://github.com/grasshlw/snn-neural-similarity)]
 
 
 ## ICASSP (IEEE International Conference on Acoustics, Speech and Signal Processing)
@@ -30,7 +33,8 @@ Updating...
 
 ## ICLR (International Conference on Learning Representations)
 
-- [Bridging the Gap between ANNs and SNNs by Calibrating Offset Spikes](https://arxiv.org/abs/2302.10685)
+- [Bridging the Gap between ANNs and SNNs by Calibrating Offset Spikes](https://arxiv.org/abs/2302.10685) [[Code](https://github.com/hzc1208/ann2snn_cos)]
+
 
 - [Spiking Convolutional Neural Networks for Text Classification](https://openreview.net/forum?id=pgU3k7QXuz0)
 
