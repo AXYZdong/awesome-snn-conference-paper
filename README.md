@@ -1,6 +1,6 @@
-# SNN Top Conference Paper
+# Awesome SNN Conference Paper [![Awesome](https://awesome.re/badge-flat.svg)](https://awesome.re)
 
-🔥 This repo collects top conference papers, codes about **Spiking Neural Networks** for anyone who wants to do research on it. We are continuously improving the project. The part of 2022 is referenced in [this](https://blog.csdn.net/qq_43622216/article/details/124163883).
+🔥 This repo collects summit papers, codes about **Spiking Neural Networks** for anyone who wants to do research on it. We are continuously improving the project. The part of 2022 is referenced in [this](https://blog.csdn.net/qq_43622216/article/details/124163883).
 
 🤗 Welcome anyone who is interested to contribute to the repo together !
 
@@ -31,7 +31,7 @@
 
 - Exploring Temporal Information Dynamics in Spiking Neural Networks [[paper](https://arxiv.org/abs/2211.14406)] [[code](https://github.com/intelligent-computing-lab-yale/exploring-temporal-information-dynamics-in-spiking-neural-networks)]
 
-- Reducing ANN-SNN Conversion Error through Residual Membrane Potential [[paper](https://arxiv.org/abs/2302.02091) ] [[code](https://github.com/grasshlw/snn-neural-similarity)]
+- Reducing ANN-SNN Conversion Error through Residual Membrane Potential [[paper](https://arxiv.org/abs/2302.02091)] [[code](https://github.com/grasshlw/snn-neural-similarity)]
 
 
 ## ICASSP (IEEE International Conference on Acoustics, Speech and Signal Processing)
@@ -46,7 +46,6 @@
 ## ICLR (International Conference on Learning Representations)
 
 - Bridging the Gap between ANNs and SNNs by Calibrating Offset Spikes [[paper](https://arxiv.org/abs/2302.10685)] [[code](https://github.com/hzc1208/ann2snn_cos)]
-
 
 - Spiking Convolutional Neural Networks for Text Classification [[paper](https://openreview.net/forum?id=pgU3k7QXuz0)]
 
