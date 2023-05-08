@@ -8,7 +8,7 @@
   * [AAAI (Association for the Advancement of Artificial Intelligence)](#aaai-association-for-the-advancement-of-artificial-intelligence)
   * [ICASSP (IEEE International Conference on Acoustics, Speech and Signal Processing)](#icassp-ieee-international-conference-on-acoustics-speech-and-signal-processing)
   * [ICLR (International Conference on Learning Representations)](#iclr-international-conference-on-learning-representations)
-  * [IJCNN (International Joint Conference on Neural Networks)](#IJCNN (International Joint Conference on Neural Networks))
+  * [IJCNN (International Joint Conference on Neural Networks)](#ijcnn-international-joint-conference-on-neural-networks)
   * [Neural Networks](#neural-networks)
 - [2022](#2022)
   * [CVPR](#cvpr)
