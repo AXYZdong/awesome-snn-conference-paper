@@ -8,6 +8,7 @@
   * [AAAI (Association for the Advancement of Artificial Intelligence)](#aaai-association-for-the-advancement-of-artificial-intelligence)
   * [ICASSP (IEEE International Conference on Acoustics, Speech and Signal Processing)](#icassp-ieee-international-conference-on-acoustics-speech-and-signal-processing)
   * [ICLR (International Conference on Learning Representations)](#iclr-international-conference-on-learning-representations)
+  * [IJCNN (International Joint Conference on Neural Networks)](#IJCNN (International Joint Conference on Neural Networks))
   * [Neural Networks](#neural-networks)
 - [2022](#2022)
   * [CVPR](#cvpr)
@@ -15,9 +16,9 @@
   * [NeurIPS](#neurips)
   * [AAAI](#aaai)
   * [ICASSP](#icassp)
-  * [ICLR](#iclr)
   * [ICML](#icml)
   * [IJCAI](#ijcai)
+  * [ICLR](#iclr)
   * [IJCNN](#ijcnn)
   * [NEURAL COMPUTATION](#neural-computation)
   * [Neural Networks](#neural-networks)
@@ -46,14 +47,14 @@
 ## ICLR (International Conference on Learning Representations)
 
 - Bridging the Gap between ANNs and SNNs by Calibrating Offset Spikes [[paper](https://arxiv.org/abs/2302.10685)] [[code](https://github.com/hzc1208/ann2snn_cos)]
-
 - Spiking Convolutional Neural Networks for Text Classification [[paper](https://openreview.net/forum?id=pgU3k7QXuz0)]
-
 - Spikformer: When Spiking Neural Network Meets Transformer [[paper](https://openreview.net/forum?id=frE4fUwz_h)] [[code](https://github.com/ZK-Zhou/spikformer)]
-
 - Heterogeneous Neuronal and Synaptic Dynamics for Spike-Efficient Unsupervised Learning: Theory and Design Principles [[paper](https://openreview.net/forum?id=QIRtAqoXwj)]
-
 - A Unified Framework for Soft Threshold Pruning [[paper](https://openreview.net/forum?id=cCFqcrq0d8)]
+
+## IJCNN (International Joint Conference on Neural Networks)
+
+- Brain-Inspired Spiking Neural Network for Online Unsupervised Time Series Prediction [[paper](https://arxiv.org/abs/2304.04697)]
 
 
 ## Neural Networks
@@ -130,13 +131,6 @@
 - Supervised Training of Siamese Spiking Neural Networks with Earth Mover's Distance [[paper](https://ieeexplore.ieee.org/document/9746630)]
 - A Time Encoding Approach to Training Spiking Neural Networks [[paper](https://ieeexplore.ieee.org/document/9746319)]
 
-## ICLR 
-
-- Optimal ANN-SNN Conversion for High-accuracy and Ultra-low-latency Spiking Neural Networks [[paper](https://openreview.net/pdf?id=7B3IJMM1k_M)] [[code](https://github.com/putshua/SNN_conversion_QCFS)]
-- Spike-inspired rank coding for fast and accurate recurrent neural networks [[paper](https://openreview.net/pdf?id=iMH1e5k7n3L)]
-- Sequence Approximation using Feedforward Spiking Neural Network for Spatiotemporal Learning: Theory and Optimization Methods [[paper](https://openreview.net/pdf?id=bp-LJ4y_XC)]
-- Temporal Efficient Training of Spiking Neural Network via Gradient Re-weighting [[paper](https://openreview.net/pdf?id=_XNtisL32jv)] [[code](https://github.com/Gus-Lab/temporal_efficient_training)]
-
 ## ICML 
 
 -  State Transition of Dendritic Spines Improves Learning of Sparse Spiking Neural Networks [[paper](https://proceedings.mlr.press/v162/chen22ac/chen22ac.pdf)]
@@ -151,6 +145,13 @@
 - Signed Neuron with Memory: Towards Simple, Accurate and High-Efficient ANN-SNN Conversion [[paper](https://www.ijcai.org/proceedings/2022/347)] [[code](https://github.com/ppppps/ANN2SNNConversion_SNM_NeuronNorm)]
 - Self-Supervised Mutual Learning for Dynamic Scene Reconstruction of Spiking Camera [[paper](https://www.ijcai.org/proceedings/2022/396)]
 - Multi-Level Firing with Spiking DS-ResNet: Enabling Better and Deeper Directly-Trained Spiking Neural Networks [[paper](https://www.ijcai.org/proceedings/2022/343)] [[code](https://github.com/langfengq/mlf-dsresnet)]
+
+## ICLR 
+
+- Optimal ANN-SNN Conversion for High-accuracy and Ultra-low-latency Spiking Neural Networks [[paper](https://openreview.net/pdf?id=7B3IJMM1k_M)] [[code](https://github.com/putshua/SNN_conversion_QCFS)]
+- Spike-inspired rank coding for fast and accurate recurrent neural networks [[paper](https://openreview.net/pdf?id=iMH1e5k7n3L)]
+- Sequence Approximation using Feedforward Spiking Neural Network for Spatiotemporal Learning: Theory and Optimization Methods [[paper](https://openreview.net/pdf?id=bp-LJ4y_XC)]
+- Temporal Efficient Training of Spiking Neural Network via Gradient Re-weighting [[paper](https://openreview.net/pdf?id=_XNtisL32jv)] [[code](https://github.com/Gus-Lab/temporal_efficient_training)]
 
 ## IJCNN
 
@@ -170,5 +171,16 @@
 ## IEEE TCYB (IEEE Transactions on Cybernetics)
 
 - Toward Efficient Processing and Learning With Spikes: New Approaches for Multispike Learning [[paper](https://ieeexplore.ieee.org/document/9082167)]
+
+
+
+
+
+# Starchart
+
+
+
+[![Star History Chart](https://api.star-history.com/svg?repos=AXYZdong/awesome-snn-conference-paper&type=Date)](https://star-history.com/#AXYZdong/awesome-snn-conference-paper&Date)
+
 
 
