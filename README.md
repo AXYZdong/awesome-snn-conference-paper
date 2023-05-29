@@ -5,10 +5,12 @@
 🤗 Welcome anyone who is interested to contribute to the repo together !
 
 - [2023](#2023)
+  * [CVPR (IEEE Conference on Computer Vision and Pattern Recognition)](#cvpr-IEEE-Conference-on-Computer-Vision-and-Pattern-Recognition)
   * [AAAI (Association for the Advancement of Artificial Intelligence)](#aaai-association-for-the-advancement-of-artificial-intelligence)
   * [ICASSP (IEEE International Conference on Acoustics, Speech and Signal Processing)](#icassp-ieee-international-conference-on-acoustics-speech-and-signal-processing)
   * [ICLR (International Conference on Learning Representations)](#iclr-international-conference-on-learning-representations)
   * [IJCNN (International Joint Conference on Neural Networks)](#ijcnn-international-joint-conference-on-neural-networks)
+  * [TNNLS (IEEE Transactions on Neural Networks and Learning Systems)](#tnnls-ieee-transactions-on-neural-networks-and-learning-systems)
   * [Neural Networks](#neural-networks)
 - [2022](#2022)
   * [CVPR](#cvpr)
@@ -25,6 +27,12 @@
   * [IEEE TCYB (IEEE Transactions on Cybernetics)](#ieee-tcyb-ieee-transactions-on-cybernetics) 
 
 # 2023
+
+## CVPR (IEEE Conference on Computer Vision and Pattern Recognition)
+
+- Rate Gradient Approximation Attack Threats Deep Spiking Neural Networks [[paper](https://openaccess.thecvf.com/content/CVPR2023/html/Bu_Rate_Gradient_Approximation_Attack_Threats_Deep_Spiking_Neural_Networks_CVPR_2023_paper.html)] [[code](https://github.com/putshua/snn_attack_rga)]
+
+- Constructing Deep Spiking Neural Networks From Artificial Neural Networks With Knowledge Distillation [[paper](https://openaccess.thecvf.com/content/CVPR2023/html/Xu_Constructing_Deep_Spiking_Neural_Networks_From_Artificial_Neural_Networks_With_CVPR_2023_paper.html)]
 
 ## AAAI (Association for the Advancement of Artificial Intelligence)
 
@@ -43,19 +51,38 @@
 
 - Training Robust Spiking Neural Networks with ViewPoint Transform and SpatioTemporal Stretching [[paper](https://arxiv.org/abs/2303.07609)]
 
+- In-Sensor & Neuromorphic Computing Are all You Need for Energy Efficient Computer Vision [[paper](https://ieeexplore.ieee.org/document/10094902)]
+
+- Training Stronger Spiking Neural Networks with Biomimetic Adaptive Internal Association Neurons [[paper](https://ieeexplore.ieee.org/document/10096958)]
+
+- Training Robust Spiking Neural Networks on Neuromorphic Data with Spatiotemporal Fragments [[paper](https://ieeexplore.ieee.org/document/10096951)]
+
+- Leveraging Sparsity with Spiking Recurrent Neural Networks for Energy-Efficient Keyword Spotting [[paper](https://ieeexplore.ieee.org/document/10097174)]
+
 
 ## ICLR (International Conference on Learning Representations)
 
 - Bridging the Gap between ANNs and SNNs by Calibrating Offset Spikes [[paper](https://arxiv.org/abs/2302.10685)] [[code](https://github.com/hzc1208/ann2snn_cos)]
+
 - Spiking Convolutional Neural Networks for Text Classification [[paper](https://openreview.net/forum?id=pgU3k7QXuz0)]
+
 - Spikformer: When Spiking Neural Network Meets Transformer [[paper](https://openreview.net/forum?id=frE4fUwz_h)] [[code](https://github.com/ZK-Zhou/spikformer)]
+
 - Heterogeneous Neuronal and Synaptic Dynamics for Spike-Efficient Unsupervised Learning: Theory and Design Principles [[paper](https://openreview.net/forum?id=QIRtAqoXwj)]
-- A Unified Framework for Soft Threshold Pruning [[paper](https://openreview.net/forum?id=cCFqcrq0d8)]
+
+- A Unified Framework for Soft Threshold Pruning [[paper](https://openreview.net/forum?id=cCFqcrq0d8)] [[code](https://github.com/Yanqi-Chen/LATS)]
 
 ## IJCNN (International Joint Conference on Neural Networks)
 
 - Brain-Inspired Spiking Neural Network for Online Unsupervised Time Series Prediction [[paper](https://arxiv.org/abs/2304.04697)]
 
+## TNNLS (IEEE Transactions on Neural Networks and Learning Systems)
+
+- Attention-Based Deep Spiking Neural Networks for Temporal Credit Assignment Problems [[paper](https://ieeexplore.ieee.org/document/10038509)]
+
+- Effective Active Learning Method for Spiking Neural Networks [[paper](https://ieeexplore.ieee.org/document/10081108)]
+
+- Backpropagation-Based Learning Techniques for Deep Spiking Neural Networks: A Survey [[paper](https://ieeexplore.ieee.org/document/10097504)]
 
 ## Neural Networks
 
@@ -68,12 +95,10 @@
 ## CVPR
 
 - Training High-Performance Low-Latency Spiking Neural Networks by Differentiation on Spike Representation [[paper](https://arxiv.org/abs/2205.00459)] [[code](https://github.com/qymeng94/DSR)]
-
 - Event-based Video Reconstruction via Potential-assisted Spiking Neural Network [[paper](https://arxiv.org/abs/2201.10943)] [[code](https://sites.google.com/view/evsnn)]
 - Brain-inspired Multilayer Perceptron with Spiking Neurons [[paper](https://arxiv.org/abs/2203.14679)] [[code](https://paperswithcode.com/paper/brain-inspired-multilayer-perceptron-with)]
 - RecDis-SNN: Rectifying Membrane Potential Distribution for Directly Training Spiking Neural Networks [[paper](https://openaccess.thecvf.com/content/CVPR2022/papers/Guo_RecDis-SNN_Rectifying_Membrane_Potential_Distribution_for_Directly_Training_Spiking_Neural_CVPR_2022_paper.pdf)]
 - Spiking Transformers for Event-Based Single Object Tracking [[paper](https://openaccess.thecvf.com/content/CVPR2022/papers/Zhang_Spiking_Transformers_for_Event-Based_Single_Object_Tracking_CVPR_2022_paper.pdf)] [[code](https://github.com/Jee-King/CVPR2022_STNet)]
-
 - Optical Flow Estimation for Spiking Camera [[paper](https://openaccess.thecvf.com/content/CVPR2022/papers/Hu_Optical_Flow_Estimation_for_Spiking_Camera_CVPR_2022_paper.pdf)] [[code](https://github.com/Acnext/Optical-Flow-For-Spiking-Camera)]
 
 ## ECCV
