@@ -5,12 +5,12 @@
 🤗 Welcome anyone who is interested to contribute to the repo together !
 
 - [2023](#2023)
-  * [CVPR (IEEE Conference on Computer Vision and Pattern Recognition)](#cvpr-IEEE-Conference-on-Computer-Vision-and-Pattern-Recognition)
+  * [CVPR (IEEE Conference on Computer Vision and Pattern Recognition)](#cvpr-ieee-conference-on-computer-vision-and-pattern-recognition)
   * [AAAI (Association for the Advancement of Artificial Intelligence)](#aaai-association-for-the-advancement-of-artificial-intelligence)
   * [ICASSP (IEEE International Conference on Acoustics, Speech and Signal Processing)](#icassp-ieee-international-conference-on-acoustics-speech-and-signal-processing)
   * [ICLR (International Conference on Learning Representations)](#iclr-international-conference-on-learning-representations)
   * [IJCNN (International Joint Conference on Neural Networks)](#ijcnn-international-joint-conference-on-neural-networks)
-  * [PAMI (IEEE Transactions on Pattern Analysis and Machine Intelligence)](#PAMI-IEEE-Transactions-on-Pattern-Analysis-and-Machine-Intelligence)
+  * [PAMI (IEEE Transactions on Pattern Analysis and Machine Intelligence)](#pami-ieee-transactions-on-pattern-analysis-and-machine-intelligence)
   * [TNNLS (IEEE Transactions on Neural Networks and Learning Systems)](#tnnls-ieee-transactions-on-neural-networks-and-learning-systems)
   * [Neural Networks](#neural-networks)
 - [2022](#2022)
