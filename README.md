@@ -1,18 +1,21 @@
 # Awesome SNN Conference Paper [![Awesome](https://awesome.re/badge-flat.svg)](https://awesome.re)
 
-🔥 This repo collects summit papers, codes about **Spiking Neural Networks** for anyone who wants to do research on it. We are continuously improving the project. The part of 2022 is referenced in [this](https://blog.csdn.net/qq_43622216/article/details/124163883).
+🔥 This repo collects top international conference papers, codes about **Spiking Neural Networks** for anyone who wants to do research on it. We are continuously improving the project. The part of 2022 is referenced in [this](https://blog.csdn.net/qq_43622216/article/details/124163883).
 
-🤗 Welcome anyone who is interested to contribute to the repo together !
+🤗 Welcome anyone who is interested to contribute to the repo together ! If you find another papers that are not in this repo, you can commit the PR.
 
 - [2023](#2023)
-  * [CVPR (IEEE Conference on Computer Vision and Pattern Recognition)](#cvpr-ieee-conference-on-computer-vision-and-pattern-recognition)
-  * [AAAI (Association for the Advancement of Artificial Intelligence)](#aaai-association-for-the-advancement-of-artificial-intelligence)
-  * [ICASSP (IEEE International Conference on Acoustics, Speech and Signal Processing)](#icassp-ieee-international-conference-on-acoustics-speech-and-signal-processing)
-  * [ICLR (International Conference on Learning Representations)](#iclr-international-conference-on-learning-representations)
-  * [IJCNN (International Joint Conference on Neural Networks)](#ijcnn-international-joint-conference-on-neural-networks)
-  * [PAMI (IEEE Transactions on Pattern Analysis and Machine Intelligence)](#pami-ieee-transactions-on-pattern-analysis-and-machine-intelligence)
-  * [TNNLS (IEEE Transactions on Neural Networks and Learning Systems)](#tnnls-ieee-transactions-on-neural-networks-and-learning-systems)
-  * [Neural Networks](#neural-networks)
+  - [ICCV (IEEE International Conference on Computer Vision)](#iccv-ieee-international-conference-on-computer-vision)
+  - [CVPR (IEEE Conference on Computer Vision and Pattern Recognition)](#cvpr-ieee-conference-on-computer-vision-and-pattern-recognition)
+  - [NeurIPS (Conference on Neural Information Processing Systems)](#neurips-conference-on-neural-information-processing-systems)
+  - [AAAI (Association for the Advancement of Artificial Intelligence)](#aaai-association-for-the-advancement-of-artificial-intelligence)
+  - [ICASSP (IEEE International Conference on Acoustics, Speech and Signal Processing)](#icassp-ieee-international-conference-on-acoustics-speech-and-signal-processing)
+  - [ICLR (International Conference on Learning Representations)](#iclr-international-conference-on-learning-representations)
+  - [IJCNN (International Joint Conference on Neural Networks)](#ijcnn-international-joint-conference-on-neural-networks)
+  - [PAMI (IEEE Transactions on Pattern Analysis and Machine Intelligence)](#pami-ieee-transactions-on-pattern-analysis-and-machine-intelligence)
+  - [TNNLS (IEEE Transactions on Neural Networks and Learning Systems)](#tnnls-ieee-transactions-on-neural-networks-and-learning-systems)
+  - [Neural Networks](#neural-networks-1)
+  
 - [2022](#2022)
   * [CVPR](#cvpr)
   * [ECCV](#eccv)
@@ -24,16 +27,57 @@
   * [ICLR](#iclr)
   * [IJCNN](#ijcnn)
   * [NEURAL COMPUTATION](#neural-computation)
-  * [Neural Networks](#neural-networks)
+  * [Neural Networks](#neural-networks-2)
   * [IEEE TCYB (IEEE Transactions on Cybernetics)](#ieee-tcyb-ieee-transactions-on-cybernetics) 
 
 # 2023
+
+## ICCV (IEEE International Conference on Computer Vision)
+
+- Deep Directly-Trained Spiking Neural Networks for Object Detection [[paper](https://arxiv.org/abs/2307.11411)] [[code](https://github.com/BICLab/EMS-YOLO)]
+
+- RMP-Loss: Regularizing Membrane Potential Distribution for Spiking Neural Networks [[paper](https://arxiv.org/abs/2308.06787)] [[code](https://github.com/yfguo91/mpbn)]
+
+- Inherent Redundancy in Spiking Neural Networks [[paper](https://arxiv.org/abs/2308.08227)] [[code](https://github.com/biclab/asa-snn)]
+
+- Masked Spiking Transformer [[paper](https://openaccess.thecvf.com/content/ICCV2023/html/Wang_Masked_Spiking_Transformer_ICCV_2023_paper.html)] [[code](https://github.com/bic-L/Masked-Spiking-Transformer)]
+
+- Membrane Potential Batch Normalization for Spiking Neural Networks [[paper](https://arxiv.org/abs/2308.08359)] [[code](https://github.com/yfguo91/mpbn)]
+
+- Towards Memory- and Time-Efficient Backpropagation for Training Spiking Neural Networks [[paper](https://arxiv.org/abs/2302.14311)] [[code](https://github.com/qymeng94/sltt)]
+
+- Temporal-Coded Spiking Neural Networks with Dynamic Firing Threshold: Learning with Event-Driven Backpropagation [[paper](https://openaccess.thecvf.com/content/ICCV2023/papers/Wei_Temporal-Coded_Spiking_Neural_Networks_with_Dynamic_Firing_Threshold_Learning_with_ICCV_2023_paper.pdf)]
+
+- Efficient Converted Spiking Neural Network for 3D and 2D Classification [[paper](https://openaccess.thecvf.com/content/ICCV2023/papers/Lan_Efficient_Converted_Spiking_Neural_Network_for_3D_and_2D_Classification_ICCV_2023_paper.pdf)]
+
+- SSF: Accelerating Training of Spiking Neural Networks with Stabilized Spiking Flow [[paper](https://openaccess.thecvf.com/content/ICCV2023/papers/Wang_SSF_Accelerating_Training_of_Spiking_Neural_Networks_with_Stabilized_Spiking_ICCV_2023_paper.pdf)]
+
+- Unleashing the Potential of Spiking Neural Networks with Dynamic Confidence [[paper](https://openaccess.thecvf.com/content/ICCV2023/papers/Li_Unleashing_the_Potential_of_Spiking_Neural_Networks_with_Dynamic_Confidence_ICCV_2023_paper.pdf)]
 
 ## CVPR (IEEE Conference on Computer Vision and Pattern Recognition)
 
 - Rate Gradient Approximation Attack Threats Deep Spiking Neural Networks [[paper](https://openaccess.thecvf.com/content/CVPR2023/html/Bu_Rate_Gradient_Approximation_Attack_Threats_Deep_Spiking_Neural_Networks_CVPR_2023_paper.html)] [[code](https://github.com/putshua/snn_attack_rga)]
 
 - Constructing Deep Spiking Neural Networks From Artificial Neural Networks With Knowledge Distillation [[paper](https://openaccess.thecvf.com/content/CVPR2023/html/Xu_Constructing_Deep_Spiking_Neural_Networks_From_Artificial_Neural_Networks_With_CVPR_2023_paper.html)]
+
+- 1000 FPS HDR Video With a Spike-RGB Hybrid Camera [[paper](https://openaccess.thecvf.com/content/CVPR2023/papers/Chang_1000_FPS_HDR_Video_With_a_Spike-RGB_Hybrid_Camera_CVPR_2023_paper.pdf)]
+
+
+## NeurIPS (Conference on Neural Information Processing Systems)
+
+- Spike-Driven Transformer [[paper](https://arxiv.org/abs/2307.01694v1)] [[code](https://github.com/biclab/spike-driven-transformer)]
+
+- Exploring Loss Functions for Time-based Training Strategy in Spiking Neural Networks [paper]
+
+- EICIL: Joint excitatory inhibitory cycle iteration learning for deep spiking neural networks [paper]
+
+- Spiking PointNet: Spiking Neural Networks for Point Clouds [[paper](https://arxiv.org/abs/2310.06232)] [[code](https://github.com/dayongren/spiking-pointnet)]
+
+- Evolving Connectivity for Recurrent Spiking Neural Networks [paper]
+
+- Trial matching: capturing variability with data-constrained spiking neural networks [paper]
+
+- SparseProp: Efficient Event-Based Simulation and Training of Sparse Recurrent Spiking Neural Networks [paper]
 
 ## AAAI (Association for the Advancement of Artificial Intelligence)
 
@@ -42,6 +86,14 @@
 - Exploring Temporal Information Dynamics in Spiking Neural Networks [[paper](https://arxiv.org/abs/2211.14406)] [[code](https://github.com/intelligent-computing-lab-yale/exploring-temporal-information-dynamics-in-spiking-neural-networks)]
 
 - Reducing ANN-SNN Conversion Error through Residual Membrane Potential [[paper](https://arxiv.org/abs/2302.02091)] [[code](https://github.com/grasshlw/snn-neural-similarity)]
+
+- ESL-SNNs: An Evolutionary Structure Learning Strategy for Spiking Neural Networks [[paper](https://ojs.aaai.org/index.php/AAAI/article/view/25079)]
+
+- Complex Dynamic Neurons Improved Spiking Transformer Network for Efficient Automatic Speech Recognition [[paper](https://ojs.aaai.org/index.php/AAAI/article/view/25081)] 
+
+- Astromorphic Self-Repair of Neuromorphic Hardware Systems [[paper](https://ojs.aaai.org/index.php/AAAI/article/view/25947)]
+
+- Scaling Up Dynamic Graph Representation Learning via Spiking Neural Networks [[paper](https://ojs.aaai.org/index.php/AAAI/article/view/26034)] [[code](https://github.com/edisonleeeee/spikenet)]
 
 
 ## ICASSP (IEEE International Conference on Acoustics, Speech and Signal Processing)
@@ -83,9 +135,11 @@
 
 - Fast-SNN: Fast Spiking Neural Network by Converting Quantized ANN [[paper](https://arxiv.org/abs/2305.19868)] [[code](https://github.com/yangfan-hu/fast-snn)]
 
+- Attention Spiking Neural Networks [[paper](https://ieeexplore.ieee.org/document/10032591)]
+
 ## TNNLS (IEEE Transactions on Neural Networks and Learning Systems)
 
-- Attention-Based Deep Spiking Neural Networks for Temporal Credit Assignment Problems [[paper](https://ieeexplore.ieee.org/document/10038509)]
+- Attention-Based Deep Spiking Neural Networks for Temporal Credit Assignment Problems [[paper](https://ieeexplore.ieee.org/document/10038509)] [[code](https://github.com/BICLab/Attention-SNN)]
 
 - Effective Active Learning Method for Spiking Neural Networks [[paper](https://ieeexplore.ieee.org/document/10081108)]
 
