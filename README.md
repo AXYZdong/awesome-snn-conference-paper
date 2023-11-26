@@ -9,12 +9,13 @@
   - [CVPR (IEEE Conference on Computer Vision and Pattern Recognition)](#cvpr-ieee-conference-on-computer-vision-and-pattern-recognition)
   - [NeurIPS (Conference on Neural Information Processing Systems)](#neurips-conference-on-neural-information-processing-systems)
   - [AAAI (Association for the Advancement of Artificial Intelligence)](#aaai-association-for-the-advancement-of-artificial-intelligence)
+  - [IJCAI (International Joint Conference on Artificial Intelligence)](#ijcai-international-joint-conference-on-artificial-intelligence)
   - [ICASSP (IEEE International Conference on Acoustics, Speech and Signal Processing)](#icassp-ieee-international-conference-on-acoustics-speech-and-signal-processing)
   - [ICLR (International Conference on Learning Representations)](#iclr-international-conference-on-learning-representations)
   - [IJCNN (International Joint Conference on Neural Networks)](#ijcnn-international-joint-conference-on-neural-networks)
   - [PAMI (IEEE Transactions on Pattern Analysis and Machine Intelligence)](#pami-ieee-transactions-on-pattern-analysis-and-machine-intelligence)
   - [TNNLS (IEEE Transactions on Neural Networks and Learning Systems)](#tnnls-ieee-transactions-on-neural-networks-and-learning-systems)
-  - [Neural Networks](#neural-networks-1)
+  - [Neural Networks](#neural-networks)
   
 - [2022](#2022)
   * [CVPR](#cvpr)
@@ -27,7 +28,7 @@
   * [ICLR](#iclr)
   * [IJCNN](#ijcnn)
   * [NEURAL COMPUTATION](#neural-computation)
-  * [Neural Networks](#neural-networks-2)
+  * [Neural Networks](#neural-networks-1)
   * [IEEE TCYB (IEEE Transactions on Cybernetics)](#ieee-tcyb-ieee-transactions-on-cybernetics) 
 
 # 2023
@@ -67,17 +68,32 @@
 
 - Spike-Driven Transformer [[paper](https://arxiv.org/abs/2307.01694v1)] [[code](https://github.com/biclab/spike-driven-transformer)]
 
-- Exploring Loss Functions for Time-based Training Strategy in Spiking Neural Networks [paper]
+- Exploring Loss Functions for Time-based Training Strategy in Spiking Neural Networks [[paper](https://openreview.net/pdf?id=8IvW2k5VeA)] [[code](https://github.com/intelligent-computing-lab-yale/exploring-temporal-information-dynamics-in-spiking-neural-networks)]
 
-- EICIL: Joint excitatory inhibitory cycle iteration learning for deep spiking neural networks [paper]
+- EICIL: Joint excitatory inhibitory cycle iteration learning for deep spiking neural networks [[paper](https://openreview.net/pdf?id=OMDgOjdqoZ)]
 
 - Spiking PointNet: Spiking Neural Networks for Point Clouds [[paper](https://arxiv.org/abs/2310.06232)] [[code](https://github.com/dayongren/spiking-pointnet)]
 
-- Evolving Connectivity for Recurrent Spiking Neural Networks [paper]
+- Evolving Connectivity for Recurrent Spiking Neural Networks [[paper](https://arxiv.org/abs/2305.17650)] [[code](https://github.com/imoneoi/EvolvingConnectivity)]
 
-- Trial matching: capturing variability with data-constrained spiking neural networks [paper]
+- Trial matching: capturing variability with data-constrained spiking neural networks [[paper](https://arxiv.org/abs/2306.03603)]
 
-- SparseProp: Efficient Event-Based Simulation and Training of Sparse Recurrent Spiking Neural Networks [paper]
+- SparseProp: Efficient Event-Based Simulation and Training of Sparse Recurrent Spiking Neural Networks [[paper](https://openreview.net/pdf?id=yzZbwQPkmP)]
+
+- Parallel Spiking Neurons with High Efficiency and Ability to Learn Long-term Dependencies [[paper](https://arxiv.org/abs/2304.12760)] [[code](https://github.com/fangwei123456/parallel-spiking-neuron)]
+
+- Addressing the speed-accuracy simulation trade-off for adaptive spiking neurons [[paper](https://openreview.net/pdf?id=Ht79ZTVMsn)]
+
+- Unsupervised Optical Flow Estimation with Dynamic Timing Representation for Spike Camera [[paper](https://arxiv.org/abs/2307.06003)]
+
+- Meta-learning families of plasticity rules in recurrent spiking networks using simulation-based inference [[paper](https://openreview.net/pdf?id=FLFasCFJNo)]
+
+- Temporal Conditioning Spiking Latent Variable Models of the Neural Response to Natural Visual Scenes [[paper](https://arxiv.org/abs/2306.12045)]
+
+- Enhancing Adaptive History Reserving by Spiking Convolutional Block Attention Module in Recurrent Neural Networks [[paper](https://openreview.net/pdf?id=aGZp61S9Lj)]
+
+- SEENN: Towards Temporal Spiking Early-Exit Neural Networks [[paper](https://arxiv.org/abs/2304.01230)]
+
 
 ## AAAI (Association for the Advancement of Artificial Intelligence)
 
@@ -94,6 +110,14 @@
 - Astromorphic Self-Repair of Neuromorphic Hardware Systems [[paper](https://ojs.aaai.org/index.php/AAAI/article/view/25947)]
 
 - Scaling Up Dynamic Graph Representation Learning via Spiking Neural Networks [[paper](https://ojs.aaai.org/index.php/AAAI/article/view/26034)] [[code](https://github.com/edisonleeeee/spikenet)]
+
+## IJCAI (International Joint Conference on Artificial Intelligence)
+
+- Spatial-Temporal Self-Attention for Asynchronous Spiking Neural Networks [[paper](https://www.ijcai.org/proceedings/2023/0344.pdf)]
+- Learnable Surrogate Gradient for Direct Training Spiking Neural Networks [[paper](https://www.ijcai.org/proceedings/2023/335)]
+- A Low Latency Adaptive Coding Spiking Framework for Deep Reinforcement Learning [[paper](https://arxiv.org/abs/2211.11760)]
+- Spike Count Maximization for Neuromorphic Vision Recognition [[paper](https://www.ijcai.org/proceedings/2023/473)]
+- Enhancing Efficient Continual Learning with Dynamic Structure Development of Spiking Neural Networks [[paper](https://arxiv.org/abs/2308.04749)]
 
 
 ## ICASSP (IEEE International Conference on Acoustics, Speech and Signal Processing)
@@ -135,11 +159,11 @@
 
 - Fast-SNN: Fast Spiking Neural Network by Converting Quantized ANN [[paper](https://arxiv.org/abs/2305.19868)] [[code](https://github.com/yangfan-hu/fast-snn)]
 
-- Attention Spiking Neural Networks [[paper](https://ieeexplore.ieee.org/document/10032591)]
+- Attention Spiking Neural Networks [[paper](https://ieeexplore.ieee.org/document/10032591)] [[code](https://github.com/BICLab/Attention-SNN)]
 
 ## TNNLS (IEEE Transactions on Neural Networks and Learning Systems)
 
-- Attention-Based Deep Spiking Neural Networks for Temporal Credit Assignment Problems [[paper](https://ieeexplore.ieee.org/document/10038509)] [[code](https://github.com/BICLab/Attention-SNN)]
+- Attention-Based Deep Spiking Neural Networks for Temporal Credit Assignment Problems [[paper](https://ieeexplore.ieee.org/document/10038509)] 
 
 - Effective Active Learning Method for Spiking Neural Networks [[paper](https://ieeexplore.ieee.org/document/10081108)]
 
