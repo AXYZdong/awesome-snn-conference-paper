@@ -2,13 +2,16 @@
 
 🔥 This repo collects top international conference papers, codes about **Spiking Neural Networks** for anyone who wants to do research on it. We are continuously improving the project. The part of 2022 is referenced in [this](https://blog.csdn.net/qq_43622216/article/details/124163883).
 
-🤗 Welcome anyone who is interested to contribute to the repo together ! If you find another papers that are not in this repo, you can commit the PR.
+🤗 Welcome anyone who is interested to contribute to the repo together ! If you find another papers that are not in this repo, you can pull requests.
+
+- [2024](#2024)
+  - [AAAI (Association for the Advancement of Artificial Intelligence)](#aaai-association-for-the-advancement-of-artificial-intelligence)
 
 - [2023](#2023)
   - [ICCV (IEEE International Conference on Computer Vision)](#iccv-ieee-international-conference-on-computer-vision)
   - [CVPR (IEEE Conference on Computer Vision and Pattern Recognition)](#cvpr-ieee-conference-on-computer-vision-and-pattern-recognition)
   - [NeurIPS (Conference on Neural Information Processing Systems)](#neurips-conference-on-neural-information-processing-systems)
-  - [AAAI (Association for the Advancement of Artificial Intelligence)](#aaai-association-for-the-advancement-of-artificial-intelligence)
+  - [AAAI (Association for the Advancement of Artificial Intelligence)](#aaai-association-for-the-advancement-of-artificial-intelligence-1)
   - [IJCAI (International Joint Conference on Artificial Intelligence)](#ijcai-international-joint-conference-on-artificial-intelligence)
   - [ICASSP (IEEE International Conference on Acoustics, Speech and Signal Processing)](#icassp-ieee-international-conference-on-acoustics-speech-and-signal-processing)
   - [ICLR (International Conference on Learning Representations)](#iclr-international-conference-on-learning-representations)
@@ -30,6 +33,21 @@
   * [NEURAL COMPUTATION](#neural-computation)
   * [Neural Networks](#neural-networks-1)
   * [IEEE TCYB (IEEE Transactions on Cybernetics)](#ieee-tcyb-ieee-transactions-on-cybernetics) 
+
+# 2024
+
+## AAAI (Association for the Advancement of Artificial Intelligence)
+
+- Ternary Spike: Learning Ternary Spikes for Spiking Neural Networks [[paper](https://arxiv.org/abs/2312.06372)] [[code](https://github.com/yfguo91/ternary-spike)]
+
+- Memory-Efficient Reversible Spiking Neural Networks  [[paper](https://arxiv.org/abs/2312.07922)] [[code](https://github.com/mi804/revsnn)]
+
+- Shrinking Your TimeStep: Towards Low-Latency Neuromorphic Object Recognition with Spiking Neural Network [[paper](https://arxiv.org/abs/2401.01912)]
+
+- DeblurSR: Event-Based Motion Deblurring Under the Spiking Representation [[paper](https://arxiv.org/abs/2303.08977)] [[code](https://github.com/chensong1995/DeblurSR)]
+
+- SpikingBERT: Distilling BERT to Train Spiking Language Models Using Implicit Differentiation [[paper](https://arxiv.org/abs/2308.10873)] [[code](https://github.com/neurocomplab-psu/spikingbert)]
+
 
 # 2023
 
@@ -282,15 +300,8 @@
 
 - Toward Efficient Processing and Learning With Spikes: New Approaches for Multispike Learning [[paper](https://ieeexplore.ieee.org/document/9082167)]
 
-
-
-
-
 # Starchart
 
 
 
 [![Star History Chart](https://api.star-history.com/svg?repos=AXYZdong/awesome-snn-conference-paper&type=Date)](https://star-history.com/#AXYZdong/awesome-snn-conference-paper&Date)
-
-
-
