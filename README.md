@@ -44,6 +44,11 @@
 
 - Shrinking Your TimeStep: Towards Low-Latency Neuromorphic Object Recognition with Spiking Neural Network [[paper](https://arxiv.org/abs/2401.01912)]
 
+- DeblurSR: Event-Based Motion Deblurring Under the Spiking Representation [[paper](https://arxiv.org/abs/2303.08977)] [[code](https://github.com/chensong1995/DeblurSR)]
+
+- SpikingBERT: Distilling BERT to Train Spiking Language Models Using Implicit Differentiation [[paper](https://arxiv.org/abs/2308.10873)] [[code](https://github.com/neurocomplab-psu/spikingbert)]
+
+
 # 2023
 
 ## ICCV (IEEE International Conference on Computer Vision)
@@ -295,15 +300,8 @@
 
 - Toward Efficient Processing and Learning With Spikes: New Approaches for Multispike Learning [[paper](https://ieeexplore.ieee.org/document/9082167)]
 
-
-
-
-
 # Starchart
 
 
 
 [![Star History Chart](https://api.star-history.com/svg?repos=AXYZdong/awesome-snn-conference-paper&type=Date)](https://star-history.com/#AXYZdong/awesome-snn-conference-paper&Date)
-
-
-
