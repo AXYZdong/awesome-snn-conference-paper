@@ -23,10 +23,10 @@ Thank the repo or blogs for their contributions to the collection of papers from
   - [CVPR](#cvpr-2023-1)
   - [NeurIPS](#neurips-2023)
   - [AAAI](#aaai-2023)
-  - [ICML](#icml-2023)  
+  - [ICML](#icml-2023)
+  - [ICLR](#iclr-2023)
   - [IJCAI](#ijcai-2023)
   - [ICASSP](#icassp-2023)
-  - [ICLR](#iclr-2023)
   - [IJCNN](#ijcnn-2023)
   - [PAMI](#pami-2023)
   - [TNNLS](#tnnls-2023)
@@ -44,7 +44,6 @@ Thank the repo or blogs for their contributions to the collection of papers from
   - [NEURAL COMPUTATION](#neural-computation)
   - [Neural Networks](#neural-networks-2022)
   - [IEEE TCYB (IEEE Transactions on Cybernetics)](#ieee-tcyb-ieee-transactions-on-cybernetics) 
-
 - [2021](#2021)
   - [NeurIPS](#neurips-2021)
   - [CVPR](#cvpr-2021)
@@ -53,7 +52,6 @@ Thank the repo or blogs for their contributions to the collection of papers from
   - [ICML](#icml-2021)
   - [IJCAI](#ijcai-2021)
   - [AAAI](#aaai-2021)
-
 - [2020](#2020)
   - [NeurIPS](#neurips-2020)
   - [CVPR](#cvpr-2020)
@@ -62,13 +60,11 @@ Thank the repo or blogs for their contributions to the collection of papers from
   - [ICML](#icml-2020)
   - [IJCAI](#ijcai-2020)
   - [AAAI](#aaai-2020)
-
 - [2019](#2019)
   - [NeurIPS](#neurips-2019)
   - [ICML](#icml-2019)
   - [IJCAI](#ijcai-2019)
   - [AAAI](#aaai-2019)
-
 - [2018](#2018)
   - [NeurIPS](#neurips-2018)
   - [ICLR](#iclr-2018)
@@ -76,7 +72,7 @@ Thank the repo or blogs for their contributions to the collection of papers from
   - [IJCAI](#ijcai-2018)
   - [AAAI](#aaai-2018)
 
-Abbreviation - Full Name List
+**Abbreviation - Full Name List**
 
 | Abbreviation |                          Full Name                           |
 | :----------: | :----------------------------------------------------------: |
@@ -366,19 +362,6 @@ Abbreviation - Full Name List
 - Training Robust Spiking Neural Networks on Neuromorphic Data with Spatiotemporal Fragments [[paper](https://ieeexplore.ieee.org/document/10096951)]
 
 - Leveraging Sparsity with Spiking Recurrent Neural Networks for Energy-Efficient Keyword Spotting [[paper](https://ieeexplore.ieee.org/document/10097174)]
-
-
-## ICLR-2023
-
-- Bridging the Gap between ANNs and SNNs by Calibrating Offset Spikes [[paper](https://iclr.cc/virtual/2023/poster/12118)] [[arxiv](https://arxiv.org/abs/2302.10685)] [[paper with code](https://paperswithcode.com/paper/bridging-the-gap-between-anns-and-snns-by)] [[code](https://github.com/hzc1208/ann2snn_cos)] [[openreview](https://openreview.net/forum?id=PFbzoWZyZRX)]
-
-- Spiking Convolutional Neural Networks for Text Classification [[paper](https://iclr.cc/virtual/2023/poster/11720)] [[openreview](https://openreview.net/forum?id=pgU3k7QXuz0)]
-
-- Spikformer: When Spiking Neural Network Meets Transformer [[paper](https://iclr.cc/virtual/2023/poster/12139)] [[arxiv](https://arxiv.org/abs/2209.15425)] [[paper with code](https://paperswithcode.com/paper/spikformer-when-spiking-neural-network-meets)] [[code](https://github.com/zk-zhou/spikformer)] [[openreview](https://openreview.net/forum?id=frE4fUwz_h)]
-
-- Heterogeneous Neuronal and Synaptic Dynamics for Spike-Efficient Unsupervised Learning: Theory and Design Principles [[paper](https://iclr.cc/virtual/2023/poster/11083)] [[arxiv](https://arxiv.org/abs/2302.11618)] [[paper with code](https://paperswithcode.com/paper/heterogeneous-neuronal-and-synaptic-dynamics)] [[openreview](https://openreview.net/forum?id=QIRtAqoXwj)]
-
-- A Unified Framework for Soft Threshold Pruning [[paper](https://openreview.net/forum?id=cCFqcrq0d8)] [[code](https://github.com/Yanqi-Chen/LATS)]
 
 
 ## IJCNN-2023
