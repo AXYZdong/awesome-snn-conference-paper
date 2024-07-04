@@ -12,65 +12,105 @@ Thank the repo or blogs for their contributions to the collection of papers from
 
 ❤Thanks so much @[Ruichen0424](https://github.com/Ruichen0424) for the collaboration!
 
-- [2024](#2024)
-  - [AAAI](#aaai-2024)
-  - [ICLR](#iclr-2024)
-  - [CVPR](#cvpr-2024)
-  - [ICASSP](#icassp-2024)
-  - [TNNLS](#tnnls-2024)
-- [2023](#2023)
-  - [ICCV](#iccv-2023)
-  - [CVPR](#cvpr-2023-1)
-  - [NeurIPS](#neurips-2023)
-  - [AAAI](#aaai-2023)
-  - [ICML](#icml-2023)
-  - [ICLR](#iclr-2023)
-  - [IJCAI](#ijcai-2023)
-  - [ICASSP](#icassp-2023)
-  - [IJCNN](#ijcnn-2023)
-  - [PAMI](#pami-2023)
-  - [TNNLS](#tnnls-2023)
-  - [Neural Networks](#neural-networks-2023)
-- [2022](#2022)
-  - [CVPR](#cvpr-2022)
-  - [ECCV](#eccv-2022)
-  - [NeurIPS](#neurips-2022)
-  - [AAAI](#aaai-2022)
-  - [ICASSP](#icassp-2022)
-  - [ICML](#icml-2022)
-  - [IJCAI](#ijcai-2022)
-  - [ICLR](#iclr-2022)
-  - [IJCNN](#ijcnn-2022)
-  - [NEURAL COMPUTATION](#neural-computation)
-  - [Neural Networks](#neural-networks-2022)
-  - [IEEE TCYB (IEEE Transactions on Cybernetics)](#ieee-tcyb-ieee-transactions-on-cybernetics) 
-- [2021](#2021)
-  - [NeurIPS](#neurips-2021)
-  - [CVPR](#cvpr-2021)
-  - [ICLR](#iclr-2021)
-  - [ICCV](#iccv-2021)
-  - [ICML](#icml-2021)
-  - [IJCAI](#ijcai-2021)
-  - [AAAI](#aaai-2021)
-- [2020](#2020)
-  - [NeurIPS](#neurips-2020)
-  - [CVPR](#cvpr-2020)
-  - [ICLR](#iclr-2020)
-  - [ECCV](#eccv-2020)
-  - [ICML](#icml-2020)
-  - [IJCAI](#ijcai-2020)
-  - [AAAI](#aaai-2020)
-- [2019](#2019)
-  - [NeurIPS](#neurips-2019)
-  - [ICML](#icml-2019)
-  - [IJCAI](#ijcai-2019)
-  - [AAAI](#aaai-2019)
-- [2018](#2018)
-  - [NeurIPS](#neurips-2018)
-  - [ICLR](#iclr-2018)
-  - [ICML](#icml-2018)
-  - [IJCAI](#ijcai-2018)
-  - [AAAI](#aaai-2018)
+---
+
+<details>
+  <summary>Table of Contents (Conferences by Year) </summary>
+  <ol>
+      <!-- 2024 -->
+    <li><a href="#2024">2024</a>
+      <ul>
+        <li><a href="#aaai-2024">AAAI</a></li>
+        <li><a href="#iclr-2024">ICLR</a></li>
+        <li><a href="#cvpr-2024">CVPR</a></li>
+        <li><a href="#icassp-2024">ICASSP</a></li>
+        <li><a href="#tnnls-2024">TNNLS</a></li>
+      </ul>
+    </li>
+      <!-- 2023 -->
+    <li><a href="#2023">2023</a>
+      <ul>
+        <li><a href="#iccv-2023">ICCV</a></li>
+        <li><a href="#cvpr-2023-1">CVPR</a></li>
+        <li><a href="#neurips-2023">NeurIPS</a></li>
+        <li><a href="#aaai-2023">AAAI</a></li>
+        <li><a href="#icml-2023">ICML</a></li>
+        <li><a href="#iclr-2023">ICLR</a></li>
+        <li><a href="#ijcai-2023">IJCAI</a></li>
+        <li><a href="#icassp-2023">ICASSP</a></li>
+        <li><a href="#ijcnn-2023">IJCNN</a></li>
+        <li><a href="#pami-2023">PAMI</a></li>
+        <li><a href="#tnnls-2023">TNNLS</a></li>
+        <li><a href="#neural-networks-2023">Neural Networks</a></li>
+      </ul>
+    </li>
+      <!-- 2022 -->
+    <li><a href="#2022">2022</a>
+      <ul>
+        <li><a href="#cvpr-2022">CVPR</a></li>
+        <li><a href="#eccv-2022">ECCV</a></li>
+        <li><a href="#neurips-2022">NeurIPS</a></li>
+        <li><a href="#aaai-2022">AAAI</a></li>
+        <li><a href="#icassp-2022">ICASSP</a></li>
+        <li><a href="#icml-2022">ICML</a></li>
+        <li><a href="#ijcai-2022">IJCAI</a></li>
+        <li><a href="#iclr-2022">ICLR</a></li>
+        <li><a href="#ijcnn-2022">IJCNN</a></li>
+        <li><a href="#neural-computation">NEURAL COMPUTATION</a></li>
+        <li><a href="#neural-networks-2022">Neural Networks</a></li>
+        <li><a href="#ieee-tcyb-ieee-transactions-on-cybernetics">IEEE TCYB (IEEE Transactions on Cybernetics)</a></li>
+      </ul>
+    </li>
+       <!-- 2021 -->
+    <li>
+      <a href="#2021">2021</a>
+      <ul>
+        <li><a href="#neurips-2021">NeurIPS</a></li>
+        <li><a href="#cvpr-2021">CVPR</a></li>
+        <li><a href="#iclr-2021">ICLR</a></li>
+        <li><a href="#iccv-2021">ICCV</a></li>
+        <li><a href="#icml-2021">ICML</a></li>
+        <li><a href="#ijcai-2021">IJCAI</a></li>
+        <li><a href="#aaai-2021">AAAI</a></li>
+      </ul>
+    </li>
+    <!-- 2020 -->
+    <li>
+      <a href="#2020">2020</a>
+      <ul>
+        <li><a href="#neurips-2020">NeurIPS</a></li>
+        <li><a href="#cvpr-2020">CVPR</a></li>
+        <li><a href="#iclr-2020">ICLR</a></li>
+        <li><a href="#eccv-2020">ECCV</a></li>
+        <li><a href="#icml-2020">ICML</a></li>
+        <li><a href="#ijcai-2020">IJCAI</a></li>
+        <li><a href="#aaai-2020">AAAI</a></li>
+      </ul>
+    </li>
+    <!-- 2019 -->
+    <li>
+      <a href="#2019">2019</a>
+      <ul>
+        <li><a href="#neurips-2019">NeurIPS</a></li>
+        <li><a href="#icml-2019">ICML</a></li>
+        <li><a href="#ijcai-2019">IJCAI</a></li>
+        <li><a href="#aaai-2019">AAAI</a></li>
+      </ul>
+    </li>
+    <!-- 2018 -->
+    <li>
+      <a href="#2018">2018</a>
+      <ul>
+        <li><a href="#neurips-2018">NeurIPS</a></li>
+        <li><a href="#iclr-2018">ICLR</a></li>
+        <li><a href="#icml-2018">ICML</a></li>
+        <li><a href="#ijcai-2018">IJCAI</a></li>
+        <li><a href="#aaai-2018">AAAI</a></li>
+      </ul>
+    </li>
+  </ol>
+</details>
+
 
 **Abbreviation - Full Name List**
 
