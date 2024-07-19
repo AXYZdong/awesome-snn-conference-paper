@@ -26,6 +26,7 @@ Thank the repo or blogs for their contributions to the collection of papers from
         <li><a href="#iclr-2024">ICLR</a></li>
         <li><a href="#cvpr-2024">CVPR</a></li>
         <li><a href="#icassp-2024">ICASSP</a></li>
+        <li><a href="#pami-2024">PAMI</a></li>
         <li><a href="#tnnls-2024">TNNLS</a></li>
       </ul>
     </li>
@@ -278,11 +279,28 @@ Thank the repo or blogs for their contributions to the collection of papers from
 - Optimal ANN-SNN Conversion with Group Neurons [[paper](https://arxiv.org/abs/2402.19061)] [[code](https://github.com/Lyu6PosHao/ANN2SNN_GN)]
 
 
+## PAMI-2024
+
+- A Hybrid Neural Coding Approach for Pattern Recognition With Spiking Neural Networks [[paper](https://ieeexplore.ieee.org/document/10347028)] [[arxiv](https://arxiv.org/abs/2305.16594v2)] [[paper with code](https://paperswithcode.com/paper/a-hybrid-neural-coding-approach-for-pattern)] [[code](https://github.com/xychen-comp/hybrid-coding-snn)]
+
+
 ## TNNLS-2024
 
-- Advancing Spiking Neural Networks Toward Deep Residual Learning [[paper](https://ieeexplore.ieee.org/abstract/document/10428029)] [[code](https://github.com/Ariande1/MS-ResNet)]
+- Advancing Spiking Neural Networks Toward Deep Residual Learning [[paper](https://ieeexplore.ieee.org/abstract/document/10428029)] [[arxiv](https://arxiv.org/abs/2112.08954v3)] [[paper with code](https://paperswithcode.com/paper/advancing-residual-learning-towards-powerful)] [[code](https://github.com/ariande1/ms-resnet)]
 
 - Adaptive Synaptic Scaling in Spiking Networks for Continual Learning and Enhanced Robustness [[paper](https://ieeexplore.ieee.org/document/10479209)]
+
+- Spiking Neural Network for Ultralow-Latency and High-Accurate Object Detection [[paper](https://ieeexplore.ieee.org/document/10472977)]
+ 
+- TCJA-SNN: Temporal-Channel Joint Attention for Spiking Neural Networks [[paper](https://ieeexplore.ieee.org/document/10496285)] [[arxiv](https://arxiv.org/abs/2206.10177v3)] [[paper with code](https://paperswithcode.com/paper/tcja-snn-temporal-channel-joint-attention-for)] [[code](https://github.com/ridgerchu/TCJA)]
+ 
+- Fully Spiking Actor Network With Intralayer Connections for Reinforcement Learning [[paper](https://ieeexplore.ieee.org/document/10423179)]
+
+- Minicolumn-Based Episodic Memory Model With Spiking Neurons, Dendrites and Delays [[paper](https://ieeexplore.ieee.org/document/9927446)]
+ 
+- Efficient Deep Spiking Multilayer Perceptrons With Multiplication-Free Inference [[paper](https://ieeexplore.ieee.org/document/10535518)]
+ 
+- CDNA-SNN: A New Spiking Neural Network for Pattern Classification Using Neuronal Assemblies [[paper](https://ieeexplore.ieee.org/document/10428047)]
 
 
 # 2023
@@ -462,6 +480,8 @@ Thank the repo or blogs for their contributions to the collection of papers from
 - Fast-SNN: Fast Spiking Neural Network by Converting Quantized ANN [[paper](https://arxiv.org/abs/2305.19868)] [[code](https://github.com/yangfan-hu/fast-snn)]
 
 - Attention Spiking Neural Networks [[paper](https://ieeexplore.ieee.org/document/10032591)] [[code](https://github.com/BICLab/Attention-SNN)]
+
+- CQ+ Training: Minimizing Accuracy Loss in Conversion From Convolutional Neural Networks to Spiking Neural Networks [[paper](https://ieeexplore.ieee.org/document/10152465)]
 
 
 ## TNNLS-2023
