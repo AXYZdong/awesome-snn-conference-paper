@@ -150,7 +150,7 @@ Thank the repo or blogs for their contributions to the collection of papers from
 
 ## ICML-2024
 
-- CLIF: Complementary Leaky Integrate-and-Fire Neuron for Spiking Neural Networks [[paper](https://openreview.net/attachment?id=yY6N89IlHa&name=pdf)] [[paper with code](https://paperswithcode.com/paper/clif-complementary-leaky-integrate-and-fire#code)] [[code](https://github.com/huuyulong/complementary-lif)]
+- CLIF: Complementary Leaky Integrate-and-Fire Neuron for Spiking Neural Networks [[paper](https://openreview.net/attachment?id=yY6N89IlHa&name=pdf)] [[arxiv](https://arxiv.org/abs/2402.04663v4)] [[paper with code](https://paperswithcode.com/paper/clif-complementary-leaky-integrate-and-fire)] [[code](https://github.com/huuyulong/complementary-lif)]
  
 - High-Performance Temporal Reversible Spiking Neural Networks with O(L) Training Memory and O(1) Inference Cost [[paper](https://openreview.net/attachment?id=s4h6nyjM9H&name=pdf)]
 
