@@ -150,6 +150,10 @@ Thank the repo or blogs for their contributions to the collection of papers from
 
 ## ICML-2024
 
+- CLIF: Complementary Leaky Integrate-and-Fire Neuron for Spiking Neural Networks [[paper](https://openreview.net/attachment?id=yY6N89IlHa&name=pdf)] [[paper with code](https://paperswithcode.com/paper/clif-complementary-leaky-integrate-and-fire#code)] [[code](https://github.com/huuyulong/complementary-lif)]
+ 
+- High-Performance Temporal Reversible Spiking Neural Networks with O(L) Training Memory and O(1) Inference Cost [[paper](https://openreview.net/attachment?id=s4h6nyjM9H&name=pdf)]
+
 - SpikeZIP-TF: Conversion is All You Need for Transformer-based SNN [[paper](https://openreview.net/attachment?id=NeotatlYOL&name=pdf)] [[arxiv](https://arxiv.org/abs/2406.03470v1)] [[paper with code](https://paperswithcode.com/paper/spikezip-tf-conversion-is-all-you-need-for#code)] [[code](https://github.com/Intelligent-Computing-Research-Group/SpikeZIP-TF)]
  
 - NDOT: Neuronal Dynamics-based Online Training for Spiking Neural Networks [[paper](https://openreview.net/attachment?id=elF0QoBSFV&name=pdf)]
