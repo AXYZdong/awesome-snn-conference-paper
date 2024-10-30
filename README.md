@@ -20,6 +20,7 @@ Thank the repo or blogs for their contributions to the collection of papers from
       <!-- 2024 -->
     <li><a href="#2024">2024</a>
       <ul>
+        <li><a href="#neurips-2024">NeurIPS</a></li>
         <li><a href="#ijcai-2024">IJCAI</a></li>
         <li><a href="#icml-2024">ICML</a></li>
         <li><a href="#aaai-2024">AAAI</a></li>
@@ -132,6 +133,59 @@ Thank the repo or blogs for their contributions to the collection of papers from
 |    TNNLS     |  IEEE Transactions on Neural Networks and Learning Systems   |
 
 # 2024
+
+## NeurIPS-2024
+
+- Latent Diffusion for Neural Spiking Data [[paper](https://nips.cc/virtual/2024/poster/94632)] [[arxiv](https://arxiv.org/abs/2407.08751v1)] [[paper with code](https://paperswithcode.com/paper/latent-diffusion-for-neural-spiking-data)]
+ 
+- Spiking Transformer with Experts Mixture [[paper](https://nips.cc/virtual/2024/poster/94824)]
+ 
+- Autonomous Driving with Spiking Neural Networks [[paper](https://nips.cc/virtual/2024/poster/96329)] [[arxiv](https://arxiv.org/abs/2405.19687v2)] [[paper with code](https://paperswithcode.com/paper/autonomous-driving-with-spiking-neural)] [[code](https://github.com/ridgerchu/sad)]
+ 
+- Rethinking the Dynamics of Spiking Neural Networks [[paper](https://nips.cc/virtual/2024/poster/96543)]
+ 
+- Spiking Graph Neural Network on Riemannian Manifolds [[paper](https://nips.cc/virtual/2024/poster/94910)] [[arxiv](https://arxiv.org/abs/2410.17941v1)] [[paper with code](https://paperswithcode.com/paper/spiking-graph-neural-network-on-riemannian)] [[code](https://github.com/ZhenhHuang/MSG)]
+ 
+- Spiking Neural Network as Adaptive Event Stream Slicer [[paper](https://nips.cc/virtual/2024/poster/96133)] [[arxiv](https://arxiv.org/abs/2410.02249v1)] [[paper with code](https://paperswithcode.com/paper/spiking-neural-network-as-adaptive-event)]
+ 
+- Spike-based Neuromorphic Model for Sound Source Localization [[paper](https://nips.cc/virtual/2024/poster/96112)]
+ 
+- QKFormer: Hierarchical Spiking Transformer using Q-K Attention [[paper](https://nips.cc/virtual/2024/poster/96252)] [[arxiv](https://arxiv.org/abs/2403.16552v2)] [[paper with code](https://paperswithcode.com/paper/qkformer-hierarchical-spiking-transformer)] [[code](https://github.com/zhouchenlin2096/qkformer)]
+ 
+- Exact Gradients for Stochastic Spiking Neural Networks Driven by Rough Signals [[paper](https://nips.cc/virtual/2024/poster/93768)] [[arxiv](https://arxiv.org/abs/2405.13587v1)] [[paper with code](https://paperswithcode.com/paper/exact-gradients-for-stochastic-spiking-neural)]
+ 
+- Neuronal Competition Groups with Supervised STDP for Spike-Based Classification [[paper](https://nips.cc/virtual/2024/poster/95890)] [[arxiv](https://arxiv.org/abs/2410.17066v1)] [[paper with code](https://paperswithcode.com/paper/neuronal-competition-groups-with-supervised)]
+ 
+- Slack-Free Spiking Neural Network Formulation for Hypergraph Minimum Vertex Cover [[paper](https://nips.cc/virtual/2024/poster/96690)]
+ 
+- Continuous Spatiotemporal Events Decoupling through Spike-based Bayesian Computation [[paper](https://nips.cc/virtual/2024/poster/92957)]
+ 
+- SpikeReveal: Unlocking Temporal Sequences from Real Blurry Inputs with Spike Streams [[paper](https://nips.cc/virtual/2024/poster/96319)] [[arxiv](https://arxiv.org/abs/2403.09486v5)] [[paper with code](https://paperswithcode.com/paper/spikereveal-unlocking-temporal-sequences-from)] [[code](https://github.com/chenkang455/s-sdm)]
+ 
+- Spiking Token Mixer: A event-driven friendly Former structure for spiking neural networks [[paper](https://nips.cc/virtual/2024/poster/93999)]
+ 
+- Spatio-Temporal Interactive Learning for Efficient Image Reconstruction of Spiking Cameras [[paper](https://nips.cc/virtual/2024/poster/95131)]
+ 
+- Advancing Spiking Neural Networks for Sequential Modeling through Central Pattern Generators [[paper](https://nips.cc/virtual/2024/poster/93894)]
+ 
+- Take A Shortcut Back: Mitigating the Gradient Vanishing for Training Spiking Neural Networks [[paper](https://nips.cc/virtual/2024/poster/93065)] [[arxiv](https://arxiv.org/abs/2401.04486v2)] [[paper with code](https://paperswithcode.com/paper/take-a-shortcut-back-mitigating-the-gradient)]
+ 
+- Towards a "Universal Translator" for Neural Dynamics at Single-Cell, Single-Spike Resolution [[paper](https://nips.cc/virtual/2024/poster/93693)] [[arxiv](https://arxiv.org/abs/2407.14668v2)] [[paper with code](https://paperswithcode.com/paper/towards-a-universal-translator-for-neural)]
+ 
+- FEEL-SNN: Robust Spiking Neural Networks with Frequency Encoding and Evolutionary Leak Factor [[paper](https://nips.cc/virtual/2024/poster/95008)]
+ 
+- EnOF: Training Accurate Spiking Neural Networks via Enhancing the Output Feature Representation [[paper](https://nips.cc/virtual/2024/poster/95074)]
+ 
+- Advancing Training Efficiency of Deep Spiking Neural Networks through Rate-based Backpropagation [[paper](https://nips.cc/virtual/2024/poster/93126)] [[arxiv](https://arxiv.org/abs/2410.11488v2)] [[paper with code](https://paperswithcode.com/paper/advancing-training-efficiency-of-deep-spiking)] [[code](https://github.com/tab-ct/rate-based-backpropagation)]
+ 
+- Statistical Estimation in the Spiked Tensor Model via the Quantum Approximate Optimization Algorithm [[paper](https://nips.cc/virtual/2024/poster/94828)]
+ 
+- SpGesture: Source-Free Domain-adaptive sEMG-based Gesture Recognition with Jaccard Attentive Spiking Neural Network [[paper](https://nips.cc/virtual/2024/poster/95897)] [[arxiv](https://arxiv.org/abs/2405.14398v2)] [[paper with code](https://paperswithcode.com/paper/spgesture-source-free-domain-adaptive-semg)] [[code](https://github.com/guoweiyu/spgesture)]
+ 
+- Long-Range Feedback Spiking Network Captures Dynamic and Static Representations of the Visual Cortex under Movie Stimuli [[paper](https://nips.cc/virtual/2024/poster/94454)]
+ 
+- SpikedAttention: Training-Free and Fully Spike-Driven Transformer-to-SNN Conversion with Winner-Oriented Spike Shift for Softmax Operation [[paper](https://nips.cc/virtual/2024/poster/94181)]
+
 
 ## IJCAI-2024
 
