@@ -341,6 +341,8 @@ Thank the repo or blogs for their contributions to the collection of papers from
 
 - A Hybrid Neural Coding Approach for Pattern Recognition With Spiking Neural Networks [[paper](https://ieeexplore.ieee.org/document/10347028)] [[arxiv](https://arxiv.org/abs/2305.16594v2)] [[paper with code](https://paperswithcode.com/paper/a-hybrid-neural-coding-approach-for-pattern)] [[code](https://github.com/xychen-comp/hybrid-coding-snn)]
 
+- Developmental Plasticity-inspired Adaptive Pruning for Deep Spiking and Artificial Neural Networks [[paper](https://ieeexplore.ieee.org/document/10691937)] [[arxiv](https://arxiv.org/abs/2211.12714v3)] [[paper with code](https://paperswithcode.com/paper/developmental-plasticity-inspired-adaptive)]
+
 
 ## TNNLS-2024
 
@@ -359,6 +361,10 @@ Thank the repo or blogs for their contributions to the collection of papers from
 - Efficient Deep Spiking Multilayer Perceptrons With Multiplication-Free Inference [[paper](https://ieeexplore.ieee.org/document/10535518)]
  
 - CDNA-SNN: A New Spiking Neural Network for Pattern Classification Using Neuronal Assemblies [[paper](https://ieeexplore.ieee.org/document/10428047)]
+
+- Accurate and Efficient Event-Based Semantic Segmentation Using Adaptive Spiking Encoder-Decoder Network [[paper](https://ieeexplore.ieee.org/document/10645685)] [[arxiv](https://arxiv.org/abs/2304.11857v3)] [[paper with code](https://paperswithcode.com/paper/accurate-and-efficient-event-based-semantic)]
+
+- Retina-Inspired Lightweight Spiking Convolutional Neural Network for Single-Image Dehazing [[paper](https://ieeexplore.ieee.org/document/10695026)]
 
 
 # 2023
