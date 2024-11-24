@@ -26,6 +26,7 @@ Thank the repo or blogs for their contributions to the collection of papers from
         <li><a href="#aaai-2024">AAAI</a></li>
         <li><a href="#iclr-2024">ICLR</a></li>
         <li><a href="#cvpr-2024">CVPR</a></li>
+        <li><a href="#eccv-2024">ECCV</a></li>
         <li><a href="#icassp-2024">ICASSP</a></li>
         <li><a href="#pami-2024">PAMI</a></li>
         <li><a href="#tnnls-2024">TNNLS</a></li>
@@ -126,6 +127,7 @@ Thank the repo or blogs for their contributions to the collection of papers from
 |     AAAI     |  Association for the Advancement of Artificial Intelligence  |
 |     ICLR     |     International Conference on Learning Representations     |
 |     ICML     |     International Conference on Machine Learning     |
+|    ECCV      | European Conference on Computer Vision |
 |    IJCAI     |  International Joint Conference on Artificial Intelligence   |
 |    ICASSP    | IEEE International Conference on Acoustics, Speech and Signal Processing |
 |    IJCNN     |      International Joint Conference on Neural Networks       |
@@ -328,6 +330,29 @@ Thank the repo or blogs for their contributions to the collection of papers from
 - Are Conventional SNNs Really Efficient? A Perspective from Network Quantization [[paper](https://arxiv.org/pdf/2311.10802.pdf)]
 
 - SFOD: Spiking Fusion Object Detector [[paper](https://arxiv.org/abs/2403.15192)] [[code](https://github.com/yimeng-fan/SFOD)]
+
+
+## ECCV-2024
+
+- Asynchronous Bioplausible Neuron for Spiking Neural Networks for Event-Based Vision [[paper](https://eccv2024.ecva.net//virtual/2024/poster/1172)]
+ 
+- BKDSNN: Enhancing the Performance of Learning-based Spiking Neural Networks Training with Blurred Knowledge Distillation [[paper](https://eccv2024.ecva.net//virtual/2024/poster/2655)] [[arxiv](https://arxiv.org/abs/2407.09083v2)] [[paper with code](https://paperswithcode.com/paper/bkdsnn-enhancing-the-performance-of-learning)] [[code](https://github.com/intelligent-computing-research-group/bkdsnn)]
+ 
+- EAS-SNN: End-to-End Adaptive Sampling and Representation for Event-based Detection with Recurrent Spiking Neural Networks [[paper](https://eccv2024.ecva.net//virtual/2024/poster/711)] [[arxiv](https://arxiv.org/abs/2403.12574v2)] [[paper with code](https://paperswithcode.com/paper/eas-snn-end-to-end-adaptive-sampling-and)] [[code](https://github.com/windere/eas-snn)]
+ 
+- Efficient Training of Spiking Neural Networks with Multi-Parallel Implicit Stream Architecture [[paper](https://eccv2024.ecva.net//virtual/2024/poster/1548)]
+ 
+- Exploring Vulnerabilities in Spiking Neural Networks: Direct Adversarial Attacks on Raw Event Data [[paper](https://eccv2024.ecva.net//virtual/2024/poster/1447)]
+ 
+- Integer-Valued Training and Spike-driven Inference Spiking Neural Network for High-performance and Energy-efficient Object Detection [[paper](https://eccv2024.ecva.net//virtual/2024/poster/150)] [[arxiv](https://arxiv.org/abs/2407.20708v3)] [[paper with code](https://paperswithcode.com/paper/integer-valued-training-and-spike-driven)] [[code](https://github.com/biclab/spikeyolo)]
+ 
+- Learning to Robustly Reconstruct Dynamic Scenes from Low-light Spike Streams [[paper](https://eccv2024.ecva.net//virtual/2024/poster/1641)]
+ 
+- Real-data-driven 2000 FPS Color Video from Mosaicked Chromatic Spikes [[paper](https://eccv2024.ecva.net//virtual/2024/poster/2019)]
+ 
+- Spike-Temporal Latent Representation for Energy-Efficient Event-to-Video Reconstruction [[paper](https://eccv2024.ecva.net//virtual/2024/poster/1446)]
+ 
+- Spiking Wavelet Transformer [[paper](https://eccv2024.ecva.net//virtual/2024/poster/2545)] [[arxiv](https://arxiv.org/abs/2403.11138v5)] [[paper with code](https://paperswithcode.com/paper/spiking-wavelet-transformer)] [[code](https://github.com/bic-l/spiking-wavelet-transformer)]
 
 
 ## ICASSP-2024
