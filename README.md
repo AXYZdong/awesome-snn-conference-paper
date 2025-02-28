@@ -17,6 +17,12 @@ Thank the repo or blogs for their contributions to the collection of papers from
 <details>
   <summary>Table of Contents (Conferences by Year) </summary>
   <ol>
+      <!-- 2025 -->
+    <li><a href="#2025">2025</a>
+        <ul>
+            <li><a href="#iclr-2025">ICLR</a></li>
+        </ul>
+    </li>
       <!-- 2024 -->
     <li><a href="#2024">2024</a>
       <ul>
@@ -133,6 +139,35 @@ Thank the repo or blogs for their contributions to the collection of papers from
 |    IJCNN     |      International Joint Conference on Neural Networks       |
 |     PAMI     | IEEE Transactions on Pattern Analysis and Machine Intelligence |
 |    TNNLS     |  IEEE Transactions on Neural Networks and Learning Systems   |
+
+---
+
+# 2025
+
+## ICLR-2025
+
+- SpikeLLM: Scaling up Spiking Neural Network to Large Language Models via Saliency-based Spiking [[paper](https://iclr.cc/virtual/2025/poster/29210)] [[arxiv](https://arxiv.org/abs/2407.04752v1)] [[paper with code](https://paperswithcode.com/paper/spikellm-scaling-up-spiking-neural-network-to)] [[code](https://github.com/xingrun-xing/spikelm)]
+
+- QP-SNN: Quantized and Pruned Spiking Neural Networks [[paper](https://iclr.cc/virtual/2025/poster/29921)]
+
+- P-SPIKESSM: HARNESSING PROBABILISTIC SPIKING STATE SPACE MODELS FOR LONG-RANGE DEPENDENCY TASKS [[paper](https://iclr.cc/virtual/2025/poster/29587)] [[arxiv](https://arxiv.org/abs/2406.02923v2)] [[paper with code](https://paperswithcode.com/paper/rethinking-spiking-neural-networks-as-state)]
+
+- Spiking Vision Transformer with Saccadic Attention [[paper](https://iclr.cc/virtual/2025/poster/28227)]
+
+- DeepTAGE: Deep Temporal-Aligned Gradient Enhancement for Optimizing Spiking Neural Networks [[paper](https://iclr.cc/virtual/2025/poster/28961)]
+
+- Temporal Flexibility in Spiking Neural Networks: Towards Generalization Across Time Steps and Deployment Friendliness [[paper](https://iclr.cc/virtual/2025/poster/30705)]
+
+- Quantized Spike-driven Transformer [[paper](https://iclr.cc/virtual/2025/poster/30954)] [[arxiv](https://arxiv.org/abs/2501.13492v2)] [[paper with code](https://paperswithcode.com/paper/quantized-spike-driven-transformer)] [[code](https://github.com/bollossom/qsd-transformer)]
+
+- SPAM: Spike-Aware Adam with Momentum Reset for Stable LLM Training [[paper](https://iclr.cc/virtual/2025/poster/30015)] [[arxiv](https://arxiv.org/abs/2501.06842v1)] [[paper with code](https://paperswithcode.com/paper/spam-spike-aware-adam-with-momentum-reset-for)] [[code](https://github.com/tianjinyellow/spam-optimizer)]
+
+- TS-LIF: A Temporal Segment Spiking Neuron Network for Time Series Forecasting [[paper](https://iclr.cc/virtual/2025/poster/28210)]
+
+- Improving the Sparse Structure Learning of Spiking Neural Networks from the View of Compression Efficiency [[paper](https://iclr.cc/virtual/2025/poster/28809)]
+
+- Rethinking Spiking Neural Networks from an Ensemble Learning Perspective [[paper](https://iclr.cc/virtual/2025/poster/29191)] [[arxiv](https://arxiv.org/abs/2502.14218v1)] [[paper with code](https://paperswithcode.com/paper/rethinking-spiking-neural-networks-from-an)]
+
 
 # 2024
 
