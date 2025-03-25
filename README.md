@@ -19,9 +19,10 @@ Thank the repo or blogs for their contributions to the collection of papers from
   <ol>
       <!-- 2025 -->
     <li><a href="#2025">2025</a>
-        <ul>
-            <li><a href="#iclr-2025">ICLR</a></li>
-        </ul>
+      <ul>
+        <li><a href="#cvpr-2025">CVPR</a></li>
+        <li><a href="#iclr-2025">ICLR</a></li>
+      </ul>
     </li>
       <!-- 2024 -->
     <li><a href="#2024">2024</a>
@@ -143,6 +144,21 @@ Thank the repo or blogs for their contributions to the collection of papers from
 ---
 
 # 2025
+
+## CVPR-2025
+
+- Spiking Transformer: Introducing Accurate Addition-Only Spiking Self-Attention for Transformer [[paper](https://cvpr.thecvf.com/virtual/2025/poster/33151)]
+ 
+- Spk2SRImgNet: Super-Resolve Dynamic Scene from Spike Stream via Motion Aligned Collaborative Filtering [[paper](https://cvpr.thecvf.com/virtual/2025/poster/33079)]
+ 
+- STAA-SNN: Spatial-Temporal Attention Aggregator for Spiking Neural Networks [[paper](https://cvpr.thecvf.com/virtual/2025/poster/34574)] [[arxiv](https://arxiv.org/abs/2503.02689v2)] [[paper with code](https://paperswithcode.com/paper/staa-snn-spatial-temporal-attention)]
+ 
+- USP-Gaussian: Unifying Spike-based Image Reconstruction, Pose Correction and Gaussian Splatting [[paper](https://cvpr.thecvf.com/virtual/2025/poster/34321)] [[arxiv](https://arxiv.org/abs/2411.10504v1)] [[paper with code](https://paperswithcode.com/paper/usp-gaussian-unifying-spike-based-image)] [[code](https://github.com/chenkang455/usp-gaussian)]
+ 
+- Spiking Transformer with Spatial-Temporal Attention [[paper](https://cvpr.thecvf.com/virtual/2025/poster/34119)] [[arxiv](https://arxiv.org/abs/2409.19764v2)] [[paper with code](https://paperswithcode.com/paper/spiking-transformer-with-spatial-temporal)]
+ 
+- Efficient ANN-Guided Distillation: Aligning Rate-based Features of Spiking Neural Networks through Hybrid Block-wise Replacement [[paper](https://cvpr.thecvf.com/virtual/2025/poster/34359)]
+
 
 ## ICLR-2025
 
