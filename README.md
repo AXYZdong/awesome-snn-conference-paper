@@ -126,20 +126,20 @@ Thank the repo or blogs for their contributions to the collection of papers from
 
 **Abbreviation - Full Name List**
 
-| Abbreviation |                          Full Name                           |
-| :----------: | :----------------------------------------------------------: |
-|     CVPR     |  IEEE Conference on Computer Vision and Pattern Recognition  |
-|     ICCV     |       IEEE International Conference on Computer Vision       |
-|   NeurIPS    |     Conference on Neural Information Processing Systems      |
-|     AAAI     |  Association for the Advancement of Artificial Intelligence  |
-|     ICLR     |     International Conference on Learning Representations     |
-|     ICML     |     International Conference on Machine Learning     |
-|    ECCV      | European Conference on Computer Vision |
-|    IJCAI     |  International Joint Conference on Artificial Intelligence   |
+| Abbreviation |                                Full Name                                 |
+|:------------:|:------------------------------------------------------------------------:|
+|     CVPR     |        IEEE Conference on Computer Vision and Pattern Recognition        |
+|     ICCV     |             IEEE International Conference on Computer Vision             |
+|   NeurIPS    |           Conference on Neural Information Processing Systems            |
+|     AAAI     |        Association for the Advancement of Artificial Intelligence        |
+|     ICLR     |           International Conference on Learning Representations           |
+|     ICML     |               International Conference on Machine Learning               |
+|     ECCV     |                  European Conference on Computer Vision                  |
+|    IJCAI     |        International Joint Conference on Artificial Intelligence         |
 |    ICASSP    | IEEE International Conference on Acoustics, Speech and Signal Processing |
-|    IJCNN     |      International Joint Conference on Neural Networks       |
-|     PAMI     | IEEE Transactions on Pattern Analysis and Machine Intelligence |
-|    TNNLS     |  IEEE Transactions on Neural Networks and Learning Systems   |
+|    IJCNN     |            International Joint Conference on Neural Networks             |
+|     PAMI     |      IEEE Transactions on Pattern Analysis and Machine Intelligence      |
+|    TNNLS     |        IEEE Transactions on Neural Networks and Learning Systems         |
 
 ---
 
