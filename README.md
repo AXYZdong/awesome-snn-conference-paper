@@ -22,6 +22,8 @@ Thank the repo or blogs for their contributions to the collection of papers from
       <ul>
         <li><a href="#cvpr-2025">CVPR</a></li>
         <li><a href="#iclr-2025">ICLR</a></li>
+        <li><a href="#aaai-2025">AAAI</a></li>
+        <li><a href="#icassp-2025">ICASSP</a></li>
       </ul>
     </li>
       <!-- 2024 -->
@@ -183,6 +185,72 @@ Thank the repo or blogs for their contributions to the collection of papers from
 - Improving the Sparse Structure Learning of Spiking Neural Networks from the View of Compression Efficiency [[paper](https://iclr.cc/virtual/2025/poster/28809)]
 
 - Rethinking Spiking Neural Networks from an Ensemble Learning Perspective [[paper](https://iclr.cc/virtual/2025/poster/29191)] [[arxiv](https://arxiv.org/abs/2502.14218v1)] [[paper with code](https://paperswithcode.com/paper/rethinking-spiking-neural-networks-from-an)]
+
+## AAAI-2025
+
+- Efficient 3D Recognition with Event-driven Spike Sparse Convolution [[arxiv](https://arxiv.org/abs/2412.07360v1)] [[paper with code](https://paperswithcode.com/paper/efficient-3d-recognition-with-event-driven)] [[code](https://github.com/bollossom/e-3dsnn)]
+ 
+- Spike2Former: Efficient Spiking Transformer for High-performance Image Segmentation [[arxiv](https://arxiv.org/abs/2412.14587v1)] [[paper with code](https://paperswithcode.com/paper/spike2former-efficient-spiking-transformer)] [[code](https://github.com/biclab/spike2former)]
+ 
+- CREST: An Efficient Conjointly-trained Spike-driven Framework for Event-based Object Detection Exploiting Spatiotemporal Dynamics [[arxiv](https://arxiv.org/abs/2412.12525v3)] [[paper with code](https://paperswithcode.com/paper/crest-an-efficient-conjointly-trained-spike)] [[code](https://github.com/shen-aoyu/CREST)]
+ 
+- FSTA-SNN:Frequency-based Spatial-Temporal Attention Module for Spiking Neural Networks [[arxiv](https://arxiv.org/abs/2501.14744v2)] [[paper with code](https://paperswithcode.com/paper/fsta-snn-frequency-based-spatial-temporal)] [[code](https://github.com/yukairong/fsta-snn)]
+ 
+- Adaptive Calibration: A Unified Conversion Framework of Spiking Neural Networks [[arxiv](https://arxiv.org/abs/2311.14265v2)] [[paper with code](https://paperswithcode.com/paper/bursting-spikes-efficient-and-high)] [[code](https://github.com/bic-l/burst-ann2snn)]
+ 
+- Towards Accurate Binary Spiking Neural Networks: Learning with Adaptive Gradient Modulation Mechanism [[arxiv](https://arxiv.org/abs/2502.14344v1)] [[paper with code](https://paperswithcode.com/paper/towards-accurate-binary-spiking-neural)] [[code](https://github.com/hamingsi/AGMM-SNN)]
+ 
+- Spiking Point Transformer for Point Cloud Classification [[arxiv](https://arxiv.org/abs/2502.15811v1)] [[paper with code](https://paperswithcode.com/paper/spiking-point-transformer-for-point-cloud)] [[code](https://github.com/PeppaWu/SPT)]
+
+## ICASSP-2025
+
+- Spiking Transformer with Spatial-Temporal Spiking Self-Attention [[paper](https://ieeexplore.ieee.org/document/10890026/)]
+ 
+- SpikingPoint: Rethinking Point as Spike for Efficient 3D Point Cloud Analysis [[paper](https://ieeexplore.ieee.org/document/10890503/)]
+ 
+- Breaking Through the Spike: Spike Window Decoding for Accelerated and Precise Automatic Speech Recognition [[paper](https://ieeexplore.ieee.org/document/10887831/)] [[arxiv](https://arxiv.org/abs/2501.03257v1)] [[paper with code](https://paperswithcode.com/paper/breaking-through-the-spike-spike-window)]
+ 
+- SCNN: Spike Coupling Neural Network for Multimodal Brain Network Analysis [[paper](https://ieeexplore.ieee.org/document/10889757/)]
+ 
+- Event-Driven Prony: Towards Asynchronous Spectral Estimation [[paper](https://ieeexplore.ieee.org/document/10890180/)]
+ 
+- Robust and Efficient Adversarial Defense in SNNs via Image Purification and Joint Detection [[paper](https://ieeexplore.ieee.org/document/10888581/)]
+ 
+- Time-independent Spiking Neuron via Membrane Potential Estimation for Efficient Spiking Neural Networks [[paper](https://ieeexplore.ieee.org/document/10890472/)] [[arxiv](https://arxiv.org/abs/2409.04978v2)] [[paper with code](https://paperswithcode.com/paper/time-independent-spiking-neuron-via-membrane)] [[code](https://github.com/chrazqee/mpe-psn)]
+ 
+- Spiking Generative Models Based on Variational Autoencoder and Adversarial Training [[paper](https://ieeexplore.ieee.org/document/10890460/)]
+ 
+- SNNPTrack: Spiking Neural Network Based Prompt for High-Accuracy RGBE Tracking [[paper](https://ieeexplore.ieee.org/document/10889195/)]
+ 
+- TFS: Revisiting Temporal Language Grounding from Frequency Spiking Perspective [[paper](https://ieeexplore.ieee.org/document/10889584/)]
+ 
+- Optimization of Chirality Variation in Carbon Nanotube Field Effect Transistor Spiking Neurons [[paper](https://ieeexplore.ieee.org/document/10888060/)]
+ 
+- Mixed Spiking NeRF: Towards a More Efficient Neural Radiance Fields [[paper](https://ieeexplore.ieee.org/document/10888091/)]
+ 
+- Schoenberg Kernel Loss for Spiking Neural Network Training [[paper](https://ieeexplore.ieee.org/document/10887614/)]
+ 
+- Memory-Free and Parallel Computation for Quantized Spiking Neural Networks [[paper](https://ieeexplore.ieee.org/document/10890361/)] [[arxiv](https://arxiv.org/abs/2503.00040v1)] [[paper with code](https://paperswithcode.com/paper/memory-free-and-parallel-computation-for)]
+ 
+- SPTU-Lite: An Efficient Auxiliary Diagnostic Approach Combining Spiking Neural Networks And Large Kernel Extractors For ECG Signals [[paper](https://ieeexplore.ieee.org/document/10889748/)]
+ 
+- Adaptive Gradient-Based Timesurface for Event-based Detection [[paper](https://ieeexplore.ieee.org/document/10888665/)]
+ 
+- Fully Spiking Neural Network for Legged Robots [[paper](https://ieeexplore.ieee.org/document/10890793/)] [[arxiv](https://arxiv.org/abs/2310.05022v3)] [[paper with code](https://paperswithcode.com/paper/fully-spiking-neural-network-for-legged)]
+ 
+- Dynamic SpikFormer: Low-Latency & Energy-Efficient Spiking Neural Networks with Dynamic Time Steps for Vision Transformers [[paper](https://ieeexplore.ieee.org/document/10888589/)]
+ 
+- Revisiting and Refining Lagunas' Beamforming for Acoustic Imaging [[paper](https://ieeexplore.ieee.org/document/10888236/)]
+ 
+- Event-based Video Person Re-identification via Cross-Modality and Temporal Collaboration [[paper](https://ieeexplore.ieee.org/document/10889628/)] [[arxiv](https://arxiv.org/abs/2501.07296v1)] [[paper with code](https://paperswithcode.com/paper/event-based-video-person-re-identification)]
+ 
+- ECSNN: Spiking Neural Networks for Efficient Exposure Correction in Endoscopy Imaging [[paper](https://ieeexplore.ieee.org/document/10888020/)]
+ 
+- Two-Stream Spiking Neural Network for Event-based Action Recognition [[paper](https://ieeexplore.ieee.org/document/10889468/)]
+ 
+- DA-LIF: Dual Adaptive Leaky Integrate-and-Fire Model for Deep Spiking Neural Networks [[paper](https://ieeexplore.ieee.org/document/10888909/)] [[arxiv](https://arxiv.org/abs/2502.10422v1)] [[paper with code](https://paperswithcode.com/paper/da-lif-dual-adaptive-leaky-integrate-and-fire)]
+ 
+- Enhancing 6D Pose Estimation with Cross-modal Fusion Network and Density-peak Keypoint Localization [[paper](https://ieeexplore.ieee.org/document/10890042/)]
 
 
 # 2024
