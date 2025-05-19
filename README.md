@@ -188,6 +188,8 @@ Thank the repo or blogs for their contributions to the collection of papers from
 
 ## AAAI-2025
 
+- UCF-Crime-DVS: A Novel Event-Based Dataset for Video Anomaly Detection with Spiking Neural Networks [[arxiv](https://arxiv.org/abs/2503.12905v1)] [[paper with code](https://paperswithcode.com/paper/ucf-crime-dvs-a-novel-event-based-dataset-for)] [[code](https://github.com/YBQian-Roy/UCF-Crime-DVS)]
+
 - Efficient 3D Recognition with Event-driven Spike Sparse Convolution [[arxiv](https://arxiv.org/abs/2412.07360v1)] [[paper with code](https://paperswithcode.com/paper/efficient-3d-recognition-with-event-driven)] [[code](https://github.com/bollossom/e-3dsnn)]
  
 - Spike2Former: Efficient Spiking Transformer for High-performance Image Segmentation [[arxiv](https://arxiv.org/abs/2412.14587v1)] [[paper with code](https://paperswithcode.com/paper/spike2former-efficient-spiking-transformer)] [[code](https://github.com/biclab/spike2former)]
