@@ -20,6 +20,7 @@ Thank the repo or blogs for their contributions to the collection of papers from
       <!-- 2025 -->
     <li><a href="#2025">2025</a>
       <ul>
+        <li><a href="#icml-2025">ICML</a></li>
         <li><a href="#cvpr-2025">CVPR</a></li>
         <li><a href="#iclr-2025">ICLR</a></li>
         <li><a href="#aaai-2025">AAAI</a></li>
@@ -146,6 +147,43 @@ Thank the repo or blogs for their contributions to the collection of papers from
 ---
 
 # 2025
+
+## ICML-2025
+
+- BSO: Binary Spiking Online Optimization [[paper](https://icml.cc/virtual/2025/poster/45087)]
+
+- Delay-DSGN: A Dynamic Spiking Graph Neural Network with Delay Mechanisms for Evolving Graph [[paper](https://icml.cc/virtual/2025/poster/43816)]
+
+- Efficient Logit-based Knowledge Distillation of Deep Spiking Neural Networks for Full-Range Timestep Deployment [[paper](https://icml.cc/virtual/2025/poster/44825)] [[arxiv](https://arxiv.org/abs/2501.15925v2)] [[paper with code](https://paperswithcode.com/paper/efficient-distillation-of-deep-spiking-neural)] [[code](https://github.com/Intelli-Chip-Lab/snn_temporal_decoupling_distillation)]
+
+- Efficient Parallel Training Methods for Spiking Neural Networks with Constant Time Complexity [[paper](https://icml.cc/virtual/2025/poster/45776)]
+
+- Faster and Stronger: When ANN-SNN Conversion Meets Parallel Spiking Calculation [[paper](https://icml.cc/virtual/2025/poster/44986)] [[arxiv](https://arxiv.org/abs/2412.13610v1)] [[paper with code](https://paperswithcode.com/paper/faster-and-stronger-when-ann-snn-conversion)]
+
+- Fluctuations of the largest eigenvalues of transformed spiked Wigner matrices [[paper](https://icml.cc/virtual/2025/poster/43562)]
+
+- Hybrid Spiking Vision Transformer for Object Detection with Event Cameras [[paper](https://icml.cc/virtual/2025/poster/45011)] [[arxiv](https://arxiv.org/abs/2505.07715v1)] [[paper with code](https://paperswithcode.com/paper/hybrid-spiking-vision-transformer-for-object)]
+
+- ReverB-SNN: Reversing Bit of the Weight and Activation for Spiking Neural Networks [[paper](https://icml.cc/virtual/2025/poster/43640)]
+
+- Self-cross Feature based Spiking Neural Networks for Efficient Few-shot Learning [[paper](https://icml.cc/virtual/2025/poster/43953)] [[arxiv](https://arxiv.org/abs/2505.07921v2)] [[paper with code](https://paperswithcode.com/paper/self-cross-feature-based-spiking-neural)]
+
+- Sorbet: A Neuromorphic Hardware-Compatible Transformer-Based Spiking Language Model [[paper](https://icml.cc/virtual/2025/poster/46416)] [[arxiv](https://arxiv.org/abs/2409.15298v1)] [[paper with code](https://paperswithcode.com/paper/sorbet-a-neuromorphic-hardware-compatible)]
+
+- SpikeVideoFormer: An Efficient Spike-Driven Video Transformer with Hamming Attention and $\mathcal{O}(T)$ Complexity [[paper](https://icml.cc/virtual/2025/poster/43447)] [[arxiv](https://arxiv.org/abs/2505.10352v1)] [[paper with code](https://paperswithcode.com/paper/spikevideoformer-an-efficient-spike-driven)]
+
+- SpikF: Spiking Fourier Network for Efficient Long-term Prediction [[paper](https://icml.cc/virtual/2025/poster/46411)]
+
+- Temporal Misalignment in ANN-SNN Conversion and Its Mitigation via Probabilistic Spiking Neurons [[paper](https://icml.cc/virtual/2025/poster/45627)]
+
+- Time to Spike? Understanding the Representational Power of Spiking Neural Networks in Discrete Time [[paper](https://icml.cc/virtual/2025/poster/44775)] [[arxiv](https://arxiv.org/abs/2505.18023v1)] [[paper with code](https://paperswithcode.com/paper/time-to-spike-understanding-the)]
+
+- Training High Performance Spiking Neural Networks by Temporal Model Calibration [[paper](https://icml.cc/virtual/2025/poster/44216)]
+
+- TS-SNN: Temporal Shift Module for Spiking Neural Networks [[paper](https://icml.cc/virtual/2025/poster/44594)] [[arxiv](https://arxiv.org/abs/2505.04165v4)] [[paper with code](https://paperswithcode.com/paper/ts-snn-temporal-shift-module-for-spiking)]
+
+- TTFSFormer: A TTFS-based Lossless Conversion of Spiking Transformer [[paper](https://icml.cc/virtual/2025/poster/44159)]
+
 
 ## CVPR-2025
 
