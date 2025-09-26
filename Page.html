@@ -1,0 +1,114 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Awesome SNN Conference Paper</title>
+
+    <!-- 使用经过验证的稳定版本 -->
+    <script src="https://cdn.jsdelivr.net/npm/marked@3.0.8/marked.min.js"></script>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/github-markdown-css@5.1.0/github-markdown.min.css">
+
+    <style>
+        .markdown-body {
+            max-width: 980px;
+            margin: 0 auto;
+            padding: 20px;
+        }
+        .meta-info {
+            color: #666;
+            margin-bottom: 20px;
+            font-style: italic;
+        }
+        .error-message {
+            color: #dc2626;
+            padding: 15px;
+            background-color: #fee2e2;
+            border-radius: 4px;
+            margin: 10px 0;
+        }
+        .loading {
+            color: #64748b;
+            padding: 20px;
+            text-align: center;
+        }
+    </style>
+</head>
+<body>
+    <div class="markdown-body meta-info" id="meta-container"></div>
+    <div class="markdown-body" id="readme-container">
+        <div class="loading">加载中...</div>
+    </div>
+
+    <script>
+        // 等待页面完全加载
+        window.addEventListener('DOMContentLoaded', function() {
+            // 检查marked是否加载成功
+            if (typeof marked === 'undefined') {
+                showError('错误：marked库加载失败，请检查网络连接或CDN链接');
+                return;
+            }
+
+            // 配置仓库信息 - 请替换为实际信息
+            const GITHUB_USER = "AXYZdong";
+            const REPO_NAME = "awesome-snn-conference-paper";
+            const BRANCH = "main"; // 通常是 main 或 master
+
+            // 构建README的raw地址，添加时间戳防止缓存
+            const README_RAW_URL = `https://raw.githubusercontent.com/${GITHUB_USER}/${REPO_NAME}/${BRANCH}/README.md?t=${new Date().getTime()}`;
+
+            // 拉取并渲染README
+            fetch(README_RAW_URL)
+                .then(response => {
+                    if (!response.ok) {
+                        throw new Error(`HTTP错误，状态码: ${response.status}`);
+                    }
+                    return response.text();
+                })
+                .then(markdownContent => {
+                    // 验证内容有效性
+                    if (!markdownContent || typeof markdownContent !== 'string') {
+                        throw new Error('获取的README内容无效');
+                    }
+
+                    // 处理相对链接
+                    const repoBaseUrl = `https://github.com/${GITHUB_USER}/${REPO_NAME}/blob/${BRANCH}/`;
+                    const rawBaseUrl = `https://raw.githubusercontent.com/${GITHUB_USER}/${REPO_NAME}/${BRANCH}/`;
+
+                    // 替换文档链接和图片链接
+                    const processedMarkdown = markdownContent
+                        .replace(/\((\.\/|\/)([^)]+?\.(md|txt))\)/g, `(${repoBaseUrl}$2)`)
+                        .replace(/\((\.\/|\/)([^)]+?\.(png|jpg|gif|jpeg))\)/g, `(${rawBaseUrl}$2)`);
+
+                    try {
+                        // 适配不同版本的marked库
+                        let htmlContent;
+                        if (typeof marked.parse === 'function') {
+                            // 新版本marked (v4及以上)
+                            htmlContent = marked.parse(processedMarkdown);
+                        } else {
+                            // 旧版本marked (v3及以下)
+                            htmlContent = marked(processedMarkdown);
+                        }
+
+                        // 显示内容和同步时间
+                        document.getElementById('readme-container').innerHTML = htmlContent;
+                        document.getElementById('meta-container').innerHTML = `最后同步时间: ${new Date().toLocaleString()}`;
+                    } catch (parseError) {
+                        // 捕获解析过程中的错误
+                        showError(`解析Markdown失败: ${parseError.message}`);
+                        console.error('Markdown解析错误:', parseError);
+                    }
+                })
+                .catch(error => {
+                    showError(`加载失败: ${error.message}`);
+                });
+        });
+
+        // 错误信息显示函数
+        function showError(message) {
+            document.getElementById('readme-container').innerHTML = `<div class="error-message">${message}</div>`;
+        }
+    </script>
+</body>
+</html>
