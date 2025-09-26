@@ -148,6 +148,25 @@ Thank the repo or blogs for their contributions to the collection of papers from
 
 # 2025
 
+## IJCAI-2025
+
+- Tackling Long-Tailed Data Challenges in Spiking Neural Networks via Heterogeneous Knowledge Distillation [[paper](https://www.ijcai.org/proceedings/2025/0157.pdf)]
+
+- Cost-Effective On-Device Sequential Recommendation with Spiking Neural Networks [[paper](https://www.ijcai.org/proceedings/2025/0398.pdf)]
+
+- Binary Event-Driven Spiking Transformer [[paper](https://www.ijcai.org/proceedings/2025/0458.pdf)]
+
+- Adaptive Gradient Learning for Spiking Neural Networks by Exploiting Membrane Potential Dynamics [[paper](https://www.ijcai.org/proceedings/2025/0464.pdf)]
+
+- ILIF: Temporal Inhibitory Leaky Integrate-and-Fire Neuron for Overactivation in Spiking Neural Networks [[paper](https://www.ijcai.org/proceedings/2025/0468.pdf)]
+
+- MSVIT: Improving Spiking Vision Transformer Using Multi-scale Attention Fusion [[paper](https://www.ijcai.org/proceedings/2025/0601.pdf)]
+
+- Exploiting Label Skewness for Spiking Neural Networks in Federated Learning [[paper](https://www.ijcai.org/proceedings/2025/0767.pdf)]
+
+- ECC-SNN: Cost-Effective Edge-Cloud Collaboration for Spiking Neural Networks [[paper](https://www.ijcai.org/proceedings/2025/0768.pdf)]
+
+
 ## ICML-2025
 
 - BSO: Binary Spiking Online Optimization [[paper](https://icml.cc/virtual/2025/poster/45087)]
