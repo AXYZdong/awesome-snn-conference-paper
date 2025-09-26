@@ -166,6 +166,10 @@ Thank the repo or blogs for their contributions to the collection of papers from
 
 - Incorporating the Refractory Period into Spiking Neural Networks through Spike-Triggered Threshold Dynamics
 
+- ESOD: Event-Based Small Object Detection
+
+- E-4DGS: High-Fidelity Dynamic Reconstruction from the Multi-view Event Cameras
+
 
 ## IJCAI-2025
 
@@ -188,39 +192,27 @@ Thank the repo or blogs for their contributions to the collection of papers from
 
 ## ICML-2025
 
-- BSO: Binary Spiking Online Optimization [[paper](https://icml.cc/virtual/2025/poster/45087)]
+- Tackling Long-Tailed Data Challenges in Spiking Neural Networks via Heterogeneous Knowledge Distillation [[paper](https://www.ijcai.org/proceedings/2025/0157.pdf)]
 
-- Delay-DSGN: A Dynamic Spiking Graph Neural Network with Delay Mechanisms for Evolving Graph [[paper](https://icml.cc/virtual/2025/poster/43816)]
+- SOTA: Spike-Navigated Optimal TrAnsport Saliency Region Detection in Composite-bias Videos [[paper](https://www.ijcai.org/proceedings/2025/0181.pdf)]
 
-- Efficient Logit-based Knowledge Distillation of Deep Spiking Neural Networks for Full-Range Timestep Deployment [[paper](https://icml.cc/virtual/2025/poster/44825)] [[arxiv](https://arxiv.org/abs/2501.15925v2)] [[paper with code](https://paperswithcode.com/paper/efficient-distillation-of-deep-spiking-neural)] [[code](https://github.com/Intelli-Chip-Lab/snn_temporal_decoupling_distillation)]
+- Cost-Effective On-Device Sequential Recommendation with Spiking Neural Networks [[paper](https://www.ijcai.org/proceedings/2025/0398.pdf)]
 
-- Efficient Parallel Training Methods for Spiking Neural Networks with Constant Time Complexity [[paper](https://icml.cc/virtual/2025/poster/45776)]
+- Binary Event-Driven Spiking Transformer [[paper](https://www.ijcai.org/proceedings/2025/0458.pdf)]
 
-- Faster and Stronger: When ANN-SNN Conversion Meets Parallel Spiking Calculation [[paper](https://icml.cc/virtual/2025/poster/44986)] [[arxiv](https://arxiv.org/abs/2412.13610v1)] [[paper with code](https://paperswithcode.com/paper/faster-and-stronger-when-ann-snn-conversion)]
+- Adaptive Gradient Learning for Spiking Neural Networks by Exploiting Membrane Potential Dynamics [[paper](https://www.ijcai.org/proceedings/2025/0464.pdf)]
 
-- Fluctuations of the largest eigenvalues of transformed spiked Wigner matrices [[paper](https://icml.cc/virtual/2025/poster/43562)]
+- ILIF: Temporal Inhibitory Leaky Integrate-and-Fire Neuron for Overactivation in Spiking Neural Networks [[paper](https://www.ijcai.org/proceedings/2025/0468.pdf)]
 
-- Hybrid Spiking Vision Transformer for Object Detection with Event Cameras [[paper](https://icml.cc/virtual/2025/poster/45011)] [[arxiv](https://arxiv.org/abs/2505.07715v1)] [[paper with code](https://paperswithcode.com/paper/hybrid-spiking-vision-transformer-for-object)]
+- MSVIT: Improving Spiking Vision Transformer Using Multi-scale Attention Fusion [[paper](https://www.ijcai.org/proceedings/2025/0601.pdf)]
 
-- ReverB-SNN: Reversing Bit of the Weight and Activation for Spiking Neural Networks [[paper](https://icml.cc/virtual/2025/poster/43640)]
+- A Fast and Accurate ANN-SNN Conversion Algorithm with Negative Spikes [[paper](https://www.ijcai.org/proceedings/2025/0719.pdf)]
 
-- Self-cross Feature based Spiking Neural Networks for Efficient Few-shot Learning [[paper](https://icml.cc/virtual/2025/poster/43953)] [[arxiv](https://arxiv.org/abs/2505.07921v2)] [[paper with code](https://paperswithcode.com/paper/self-cross-feature-based-spiking-neural)]
+- SCNNs: Spike-based Coupling Neural Networks for Understanding Structural-Functional Relationships in the Human Brain [[paper](https://www.ijcai.org/proceedings/2025/0726.pdf)]
 
-- Sorbet: A Neuromorphic Hardware-Compatible Transformer-Based Spiking Language Model [[paper](https://icml.cc/virtual/2025/poster/46416)] [[arxiv](https://arxiv.org/abs/2409.15298v1)] [[paper with code](https://paperswithcode.com/paper/sorbet-a-neuromorphic-hardware-compatible)]
+- Exploiting Label Skewness for Spiking Neural Networks in Federated Learning [[paper](https://www.ijcai.org/proceedings/2025/0767.pdf)]
 
-- SpikeVideoFormer: An Efficient Spike-Driven Video Transformer with Hamming Attention and $\mathcal{O}(T)$ Complexity [[paper](https://icml.cc/virtual/2025/poster/43447)] [[arxiv](https://arxiv.org/abs/2505.10352v1)] [[paper with code](https://paperswithcode.com/paper/spikevideoformer-an-efficient-spike-driven)]
-
-- SpikF: Spiking Fourier Network for Efficient Long-term Prediction [[paper](https://icml.cc/virtual/2025/poster/46411)]
-
-- Temporal Misalignment in ANN-SNN Conversion and Its Mitigation via Probabilistic Spiking Neurons [[paper](https://icml.cc/virtual/2025/poster/45627)]
-
-- Time to Spike? Understanding the Representational Power of Spiking Neural Networks in Discrete Time [[paper](https://icml.cc/virtual/2025/poster/44775)] [[arxiv](https://arxiv.org/abs/2505.18023v1)] [[paper with code](https://paperswithcode.com/paper/time-to-spike-understanding-the)]
-
-- Training High Performance Spiking Neural Networks by Temporal Model Calibration [[paper](https://icml.cc/virtual/2025/poster/44216)]
-
-- TS-SNN: Temporal Shift Module for Spiking Neural Networks [[paper](https://icml.cc/virtual/2025/poster/44594)] [[arxiv](https://arxiv.org/abs/2505.04165v4)] [[paper with code](https://paperswithcode.com/paper/ts-snn-temporal-shift-module-for-spiking)]
-
-- TTFSFormer: A TTFS-based Lossless Conversion of Spiking Transformer [[paper](https://icml.cc/virtual/2025/poster/44159)]
+- ECC-SNN: Cost-Effective Edge-Cloud Collaboration for Spiking Neural Networks [[paper](https://www.ijcai.org/proceedings/2025/0768.pdf)]
 
 
 ## CVPR-2025
