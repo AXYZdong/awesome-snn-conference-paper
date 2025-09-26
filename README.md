@@ -20,6 +20,8 @@ Thank the repo or blogs for their contributions to the collection of papers from
       <!-- 2025 -->
     <li><a href="#2025">2025</a>
       <ul>
+        <li><a href="#acm-mm-2025">ACM MM</a></li>
+        <li><a href="#ijcai-2025">IJCAI</a></li>
         <li><a href="#icml-2025">ICML</a></li>
         <li><a href="#cvpr-2025">CVPR</a></li>
         <li><a href="#iclr-2025">ICLR</a></li>
@@ -147,6 +149,23 @@ Thank the repo or blogs for their contributions to the collection of papers from
 ---
 
 # 2025
+
+## ACM MM-2025
+
+- DSF-Net: Dynamic Sparse Fusion of Event-RGB via Spike-Triggered Attention for High-Speed Detection
+
+- Temporal-coded Spiking Transformer
+
+- Spiking Neural Networks with Temporal Attention-Guided Adaptive Fusion for imbalanced Multi-modal Learning
+
+- Advanced SpikingYOLOX: Extending Spiking Neural Network on Object Detection with Spike-based Partial Self-Attention and 2D-Spiking Transformer
+
+- SGM-Transformer: Rethinking Gradient Information Loss and Compensation in Spiking Neural Networks
+
+- Signal-SGN: A Spiking Graph Convolutional Network for Skeleton Action Recognition via Learning Temporal-Frequency Dynamics
+
+- Incorporating the Refractory Period into Spiking Neural Networks through Spike-Triggered Threshold Dynamics
+
 
 ## IJCAI-2025
 
