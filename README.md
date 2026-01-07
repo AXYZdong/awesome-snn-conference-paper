@@ -150,53 +150,53 @@ Thank the repo or blogs for their contributions to the collection of papers from
 
 # 2025
 ## NeurIPS-2025
-- Local-Global Coupling Spiking Graph Transformer for Brain Disorders Diagnosis from Two Perspectives [[paper](https://neurips.cc/virtual/202/poster/116354)]
+- Local-Global Coupling Spiking Graph Transformer for Brain Disorders Diagnosis from Two Perspectives [[paper](https://neurips.cc/virtual/2025/loc/san-diego/116354)]
 
-- STEP: A Unified Spiking Transformer Evaluation Platform for Fair and Reproducible Benchmarking [[paper](https://neurips.cc/virtual/202/poster/121635)]
+- STEP: A Unified Spiking Transformer Evaluation Platform for Fair and Reproducible Benchmarking [[paper](https://neurips.cc/virtual/2025/loc/san-diego/121635)]
 
-- HetSyn: Versatile Timescale Integration in Spiking Neural Networks via Heterogeneous Synapses [[paper](https://neurips.cc/virtual/202/poster/117410)]
+- HetSyn: Versatile Timescale Integration in Spiking Neural Networks via Heterogeneous Synapses [[paper](https://neurips.cc/virtual/2025/loc/san-diego/117410)]
 
-- MI-TRQR: Mutual Information-Based Temporal Redundancy Quantification and Reduction for Energy-Efficient Spiking Neural Networks [[paper](https://neurips.cc/virtual/202/poster/118362)]
+- MI-TRQR: Mutual Information-Based Temporal Redundancy Quantification and Reduction for Energy-Efficient Spiking Neural Networks [[paper](https://neurips.cc/virtual/2025/loc/san-diego/118362)]
 
-- Spiking Meets Attention: Efficient Remote Sensing Image Super-Resolution with Attention Spiking Neural Networks [[paper](https://neurips.cc/virtual/202/poster/117672)]
+- Spiking Meets Attention: Efficient Remote Sensing Image Super-Resolution with Attention Spiking Neural Networks [[paper](https://neurips.cc/virtual/2025/loc/san-diego/117672)]
 
-- S$^2$NN: Sub-bit Spiking Neural Networks [[paper](https://neurips.cc/virtual/202/poster/116668)]
+- S$^2$NN: Sub-bit Spiking Neural Networks [[paper](https://neurips.cc/virtual/2025/loc/san-diego/116668)]
 
-- Proxy Target: Bridging the Gap Between Discrete Spiking Neural Networks and Continuous Control [[paper](https://neurips.cc/virtual/202/poster/118027)]
+- Proxy Target: Bridging the Gap Between Discrete Spiking Neural Networks and Continuous Control [[paper](https://neurips.cc/virtual/2025/loc/san-diego/118027)]
 
-- Spike-RetinexFormer: Rethinking Low-light Image Enhancement with Spiking Neural Networks [[paper](https://neurips.cc/virtual/202/poster/119612)]
+- Spike-RetinexFormer: Rethinking Low-light Image Enhancement with Spiking Neural Networks [[paper](https://neurips.cc/virtual/2025/loc/san-diego/119612)]
 
-- Bipolar Self-attention for Spiking Transformers [[paper](https://neurips.cc/virtual/202/poster/116154)]
+- Bipolar Self-attention for Spiking Transformers [[paper](https://neurips.cc/virtual/2025/loc/san-diego/116154)]
 
-- Spik-NeRF: Spiking Neural Networks for Neural Radiance Fields [[paper](https://neurips.cc/virtual/202/poster/120353)]
+- Spik-NeRF: Spiking Neural Networks for Neural Radiance Fields [[paper](https://neurips.cc/virtual/2025/loc/san-diego/120353)]
 
-- Fully Spiking Neural Networks for Unified Frame-Event Object Tracking [[paper](https://neurips.cc/virtual/202/poster/119010)]
+- Fully Spiking Neural Networks for Unified Frame-Event Object Tracking [[paper](https://neurips.cc/virtual/2025/loc/san-diego/119010)]
 
-- S$^2$M-Former: Spiking Symmetric Mixing Branchformer for Brain Auditory Attention Detection [[paper](https://neurips.cc/virtual/202/poster/117560)]
+- S$^2$M-Former: Spiking Symmetric Mixing Branchformer for Brain Auditory Attention Detection [[paper](https://neurips.cc/virtual/2025/loc/san-diego/117560)]
 
-- Activity Pruning for Efficient Spiking Neural Networks [[paper](https://neurips.cc/virtual/202/poster/115023)]
+- Activity Pruning for Efficient Spiking Neural Networks [[paper](https://neurips.cc/virtual/2025/loc/san-diego/115023)]
 
-- Toward Relative Positional Encoding in Spiking Transformers [[paper](https://neurips.cc/virtual/202/poster/118485)]
+- Toward Relative Positional Encoding in Spiking Transformers [[paper](https://neurips.cc/virtual/2025/loc/san-diego/118485)]
 
-- Spiking Transformers Need High-Frequency Information [[paper](https://neurips.cc/virtual/202/poster/115997)]
+- Spiking Transformers Need High-Frequency Information [[paper](https://neurips.cc/virtual/2025/loc/san-diego/115997)]
 
-- SpikingVTG: A Spiking Detection Transformer for Video Temporal Grounding [[paper](https://neurips.cc/virtual/202/poster/117906)]
+- SpikingVTG: A Spiking Detection Transformer for Video Temporal Grounding [[paper](https://neurips.cc/virtual/2025/loc/san-diego/117906)]
 
-- Learning the Plasticity: Plasticity-Driven Learning Framework in Spiking Neural Networks [[paper](https://neurips.cc/virtual/202/poster/116810)]
+- Learning the Plasticity: Plasticity-Driven Learning Framework in Spiking Neural Networks [[paper](https://neurips.cc/virtual/2025/loc/san-diego/116810)]
 
-- Enhanced Self-Distillation Framework for Efficient Spiking Neural Network Training [[paper](https://neurips.cc/virtual/202/poster/116982)]
+- Enhanced Self-Distillation Framework for Efficient Spiking Neural Network Training [[paper](https://neurips.cc/virtual/2025/loc/san-diego/116982)]
 
-- Recurrent Reinforcement Learning with Surrogate Gradients for Spiking Neural Networks [[paper](https://neurips.cc/virtual/202/poster/116054)]
+- Adaptive Surrogate Gradients for Sequential Reinforcement Learning in Spiking Neural Networks [[paper](https://neurips.cc/virtual/2025/loc/san-diego/116054)]
 
-- Multiplication-Free Parallelizable Spiking Neurons with Efficient Spatio-Temporal Dynamics [[paper](https://neurips.cc/virtual/202/poster/119914)]
+- Multiplication-Free Parallelizable Spiking Neurons with Efficient Spatio-Temporal Dynamics [[paper](https://neurips.cc/virtual/2025/loc/san-diego/119914)]
 
-- SPACE: SPike-Aware Consistency Enhancement for Test-Time Adaptation in Spiking Neural Networks [[paper](https://neurips.cc/virtual/202/poster/119202)]
+- SPACE: SPike-Aware Consistency Enhancement for Test-Time Adaptation in Spiking Neural Networks [[paper](https://neurips.cc/virtual/2025/loc/san-diego/119202)]
 
-- Unveiling the Spatial-temporal Effective Receptive Fields of Spiking Neural Networks [[paper](https://neurips.cc/virtual/202/poster/115581)]
+- Unveiling the Spatial-temporal Effective Receptive Fields of Spiking Neural Networks [[paper](https://neurips.cc/virtual/2025/loc/san-diego/115581)]
 
-- A Scalable, Causal, and Energy Efficient Framework for Neural Decoding with Spiking Neural Networks [[paper](https://neurips.cc/virtual/202/poster/116071)]
+- A Scalable, Causal, and Energy Efficient Framework for Neural Decoding with Spiking Neural Networks [[paper](https://neurips.cc/virtual/2025/loc/san-diego/116071)]
 
-- Synergy Between the Strong and the Weak: Spiking Neural Networks are Inherently Self-Distillers [[paper](https://neurips.cc/virtual/202/poster/119338)]
+- Synergy Between the Strong and the Weak: Spiking Neural Networks are Inherently Self-Distillers [[paper](https://neurips.cc/virtual/2025/loc/san-diego/119338)]
 
 ## ACM MM-2025
 
