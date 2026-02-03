@@ -17,6 +17,12 @@ Thank the repo or blogs for their contributions to the collection of papers from
 <details>
   <summary>Table of Contents (Conferences by Year) </summary>
   <ol>
+      <!-- 2026 -->
+    <li><a href="#2026">2026</a>
+      <ul>
+        <li><a href="#iclr-2026">ICLR</a></li>
+      </ul>
+    </li>
       <!-- 2025 -->
     <li><a href="#2025">2025</a>
       <ul>
@@ -147,6 +153,65 @@ Thank the repo or blogs for their contributions to the collection of papers from
 |    TNNLS     |        IEEE Transactions on Neural Networks and Learning Systems         |
 
 ---
+# 2026
+
+## ICLR-2026
+- Random Spiking Neural Networks are Stable and Spectrally Simple [[paper](https://openreview.net/attachment?id=Ochp5HHp46&name=pdf)]
+ 
+- Beyond Linear Processing: Dendritic Bilinear Integration in Spiking Neural Networks [[paper](https://openreview.net/attachment?id=5MB5vakrhB&name=pdf)]
+ 
+- Robust Spiking Neural Networks Against Adversarial Attacks [[paper](https://openreview.net/attachment?id=qTqAL2t8Aa&name=pdf)]
+ 
+- Neural Dynamics Self-Attention for Spiking Transformers [[paper](https://openreview.net/attachment?id=jJedqisfOt&name=pdf)]
+ 
+- SAFA-SNN: Sparsity-Aware On-Device Few-Shot Class-Incremental Learning with Fast-Adaptive Structure of Spiking Neural Network [[paper](https://openreview.net/attachment?id=9jcB40wjk3&name=pdf)]
+ 
+- TP-Spikformer: Token Pruned Spiking Transformer [[paper](https://openreview.net/attachment?id=L5llQD0nMf&name=pdf)]
+ 
+- Online Pseudo-Zeroth-Order Training of Neuromorphic Spiking Neural Networks [[paper](https://openreview.net/attachment?id=6ZietpbPoB&name=pdf)]
+ 
+- Spiking Discrepancy Transformer for Point Cloud Analysis [[paper](https://openreview.net/attachment?id=7Brnh0aNFn&name=pdf)]
+ 
+- Robust Selective Activation with Randomized Temporal K-Winner-Take-All in Spiking Neural Networks for Continual Learning [[paper](https://openreview.net/attachment?id=uAkexWJ7dW&name=pdf)]
+ 
+- A Brain-Inspired Gating Mechanism Unlocks Robust Computation in Spiking Neural Networks [[paper](https://openreview.net/attachment?id=5h741EyfQM&name=pdf)]
+ 
+- Difference Predictive Coding for Training Spiking Neural Networks [[paper](https://openreview.net/attachment?id=iu9dbz2lB9&name=pdf)]
+ 
+- Fractional-Order Spiking Neural Network [[paper](https://openreview.net/attachment?id=NJhBSLJ0nL&name=pdf)]
+ 
+- Distribution-Aware Multi-Granularity Phase Coding: Towards Lower Conversion Error for Spike-Driven Large Language Models [[paper](https://openreview.net/attachment?id=meDMftHUlX&name=pdf)]
+ 
+- Many Eyes, One Mind: Temporal Multi-Perspective and Progressive Distillation for Spiking Neural Networks [[paper](https://openreview.net/attachment?id=NbdEDRRsCI&name=pdf)]
+ 
+- Towards Lossless Memory-efficient Training of Spiking Neural Networks via Gradient Checkpointing and Spike Compression [[paper](https://openreview.net/attachment?id=nrBJ0Uvj7c&name=pdf)]
+ 
+- 3DSMT: A Hybrid Spiking Mamba-Transformer for Point Cloud Analysis [[paper](https://openreview.net/attachment?id=KkoS6y0pHP&name=pdf)]
+ 
+- Training Deep Normalization-Free Spiking Neural Networks with Lateral Inhibition. [[paper](https://openreview.net/attachment?id=U8preGvn5G&name=pdf)]
+ 
+- SMixer: Rethinking Efficient-Training and Event-Driven SNNs [[paper](https://openreview.net/attachment?id=78glEsQB0v&name=pdf)]
+ 
+- Otters: An Energy-Efficient Spiking Transformer via Optical Time-to-First-Spike Encoding [[paper](https://openreview.net/attachment?id=oK0ISeb5Dw&name=pdf)]
+ 
+- Pretraining with Re-parametrized Self-Attention: Unlocking Generalizationin  SNN-Based Neural Decoding Across Time, Brains, and Tasks [[paper](https://openreview.net/attachment?id=ZsvGCzpaVD&name=pdf)]
+ 
+- Robustify Spiking Neural Networks via Dominant Singular Deflation under Heterogeneous Training Vulnerability [[paper](https://openreview.net/attachment?id=EIYltBaUzL&name=pdf)]
+
+- Breaking Gradient Temporal Collinearity for Robust Spiking Neural Networks [[paper](https://openreview.net/attachment?id=udTDFAshNM&name=pdf)]
+ 
+- SpikeStereoNet: A Brain-Inspired Framework for Stereo Depth Estimation from Spike Streams [[paper](https://openreview.net/attachment?id=lPMPFeioCZ&name=pdf)]
+ 
+- Cannistraci-Hebb Training on Ultra-Sparse Spiking Neural Networks [[paper](https://openreview.net/attachment?id=qDLVgr8ESB&name=pdf)]
+ 
+- Biologically Plausible Learning via Bidirectional Spike-Based Distillation [[paper](https://openreview.net/attachment?id=MmWZ2xVJ7z&name=pdf)]
+ 
+- Time Is All It Takes: Spike-Retiming Attacks on Event-Driven Spiking Neural Networks [[paper](https://openreview.net/attachment?id=b107VY19Id&name=pdf)]
+ 
+- PredNext: Explicit Cross-View Temporal Prediction for Unsupervised Learning in Spiking Neural Networks [[paper](https://openreview.net/attachment?id=LjugJFmItY&name=pdf)]
+ 
+- CaRe-BN: Precise Moving Statistics for Stabilizing Spiking Neural Networks in Reinforcement Learning [[paper](https://openreview.net/attachment?id=AaZVrbElhC&name=pdf)]
+
 
 # 2025
 ## NeurIPS-2025
