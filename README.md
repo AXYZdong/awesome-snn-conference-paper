@@ -2,15 +2,11 @@
 
 🔥 This repo collects top international conference papers, codes about **Spiking Neural Networks** for anyone who wants to do research on it. We are continuously improving the project. 
 
-The part of 2018-2021 is referenced in  [Awesome-SNN-Paper-Collection](https://github.com/Ruichen0424/Awesome-SNN-Paper-Collection).
 
-The part of 2022 is referenced in [2022年顶会、顶刊SNN相关论文](https://blog.csdn.net/qq_43622216/article/details/124163883).
+> [!NOTE]  
+> 🤗 Welcome anyone who is interested to contribute to the repo together ! If you find another papers that are not in this repo, you can **Pull Requests**.
 
-Thank the repo or blogs for their contributions to the collection of papers from top conferences or top journals in the SNN field.
-
-🤗 Welcome anyone who is interested to contribute to the repo together ! If you find another papers that are not in this repo, you can **pull requests**.
-
-❤Thanks so much @[Ruichen0424](https://github.com/Ruichen0424) for the collaboration!
+❤ Thanks so much @[Ruichen0424](https://github.com/Ruichen0424) for the collaboration!
 
 ---
 
@@ -1351,6 +1347,15 @@ Thank the repo or blogs for their contributions to the collection of papers from
 - A Plasticity-Centric Approach to Train the Non-Differential Spiking Neural Networks [[paper](https://ojs.aaai.org/index.php/AAAI/article/view/11317)]
 
 - Learning Nonlinear Dynamics in Efficient, Balanced Spiking Networks Using Local Plasticity Rules [[paper](https://ojs.aaai.org/index.php/AAAI/article/view/11320)]
+
+
+# Aknowledgement
+
+The part of 2018-2021 is referenced in  [Awesome-SNN-Paper-Collection](https://github.com/Ruichen0424/Awesome-SNN-Paper-Collection).
+
+The part of 2022 is referenced in [2022年顶会、顶刊SNN相关论文](https://blog.csdn.net/qq_43622216/article/details/124163883).
+
+Thank the repo or blogs for their contributions to the collection of papers from top conferences or top journals in the SNN field.
 
 # Starchart
 
