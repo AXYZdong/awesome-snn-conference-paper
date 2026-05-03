@@ -292,6 +292,17 @@
 - CaRe-BN: Precise Moving Statistics for Stabilizing Spiking Neural Networks in Reinforcement Learning [[paper](https://openreview.net/attachment?id=AaZVrbElhC&name=pdf)]
 
 
+## PAMI-2026
+
+- SNNTracker: Online High-Speed Multi-Object Tracking With Spike Camera [[paper](https://ieeexplore.ieee.org/document/11165142/)]
+
+- A Unified Experience Replay Framework for Spiking Deep Reinforcement Learning [[paper](https://ieeexplore.ieee.org/document/11297854/)]
+
+- Learn to Enhance Sparse Spike Streams [[paper](https://ieeexplore.ieee.org/document/11348099/)]
+
+- DSNeRF: Dynamic View Synthesis for Ultra-Fast Scenes from Continuous Spike Streams [[paper](https://ieeexplore.ieee.org/document/11361264/)]
+
+
 # 2025
 ## NeurIPS-2025
 - Local-Global Coupling Spiking Graph Transformer for Brain Disorders Diagnosis from Two Perspectives [[paper](https://neurips.cc/virtual/2025/loc/san-diego/116354)]
