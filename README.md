@@ -570,6 +570,23 @@
 - SpikedAttention: Training-Free and Fully Spike-Driven Transformer-to-SNN Conversion with Winner-Oriented Spike Shift for Softmax Operation [[paper](https://nips.cc/virtual/2024/poster/94181)]
 
 
+## PAMI-2025
+
+- Graph Spiking Attention Network: Sparsity, Efficiency and Robustness [[paper](https://ieeexplore.ieee.org/document/11104926/)]
+
+- Event-Based Stereo Depth Estimation: A Survey [[paper](https://ieeexplore.ieee.org/document/11078760/)]
+
+- Detecting Every Object From Events [[paper](https://ieeexplore.ieee.org/document/10979499/)]
+
+- Scaling Spike-Driven Transformer With Efficient Spike Firing Approximation Training [[paper](https://ieeexplore.ieee.org/document/10848017/)]
+
+- Spiking Variational Policy Gradient for Brain Inspired Reinforcement Learning [[paper](https://ieeexplore.ieee.org/document/10786920/)]
+
+- Self-Supervised High-Order Information Bottleneck Learning of Spiking Neural Network for Robust Event-Based Optical Flow Estimation [[paper](https://ieeexplore.ieee.org/document/10772601/)]
+
+- Developmental Plasticity-Inspired Adaptive Pruning for Deep Spiking and Artificial Neural Networks [[paper](https://ieeexplore.ieee.org/document/10691937/)]
+
+
 ## IJCAI-2024
 
 - Learning a Spiking Neural Network for Efficient Image Deraining  [[arxiv](https://arxiv.org/abs/2405.06277v1)] [[paper with code](https://paperswithcode.com/paper/learning-a-spiking-neural-network-for)] [[code](https://github.com/mingtian99/esdnet)]
