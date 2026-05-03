@@ -292,6 +292,87 @@
 - CaRe-BN: Precise Moving Statistics for Stabilizing Spiking Neural Networks in Reinforcement Learning [[paper](https://openreview.net/attachment?id=AaZVrbElhC&name=pdf)]
 
 
+
+## ICASSP-2026
+
+- Lightweight attention spiking neural network for sleep staging [[paper]](https://ieeexplore.ieee.org/document/11462764)
+
+- Stage-Wise Robust Distillation for Spiking Neural Network Training [[paper]](https://ieeexplore.ieee.org/document/11463065)
+
+- ASRC-SNN: Adaptive Skip Recurrent Connection Spiking Neural Network [[paper]](https://ieeexplore.ieee.org/document/11464148)
+
+- Spiking Neural Networks for Ordinal Regression [[paper]](https://ieeexplore.ieee.org/document/11460701)
+
+- AR-LIF: Adaptive Reset Leaky Integrate-And-Fire Neuron for Spiking Neural Networks [[paper]](https://ieeexplore.ieee.org/document/11462852)
+
+- IADP-SNN: Integer Activation Dropping Spiking Neural Network for Underwater Acoustic Communication Signal Recognition [[paper]](https://ieeexplore.ieee.org/document/11460569)
+
+- PSQ-PMC: A Hardware-Friendly Quantization Scheme for Spike-Based Neural Radiance [[paper]](https://ieeexplore.ieee.org/document/11462692)
+
+- One Timestep Spiking Actor Network with Adaptive Global-Connected Encoding and Threshold Learning [[paper]](https://ieeexplore.ieee.org/document/11461262)
+
+- Efficient Moiré Artifact Removal in RAW and sRGB Domains via Spiking Neural Networks [[paper]](https://ieeexplore.ieee.org/document/11460665)
+
+- Low-Power End-to-End Cochlear Implant Speech Denoising with Spiking Neural Networks [[paper]](https://ieeexplore.ieee.org/document/11464775)
+
+- Training Quantized Spiking Neural Networks with Low-Bit Gradients [[paper]](https://ieeexplore.ieee.org/document/11464019)
+
+- Directly Trained Spiking Neural Networks with Adaptive Phase Coding [[paper]](https://ieeexplore.ieee.org/document/11460632)
+
+- DFA-SNN: Dual-Frequency Attention Module for Spiking Neural Networks [[paper]](https://ieeexplore.ieee.org/document/11461548)
+
+- Spatiotemporal Gradient Decoupling: Advancing Online Training Of Recurrent Spiking Neural Networks [[paper]](https://ieeexplore.ieee.org/document/11460468)
+
+- Spiking Meets Causality: Efficient Granger Causal Discovery with Spiking Neural Networks [[paper]](https://ieeexplore.ieee.org/document/11464595)
+
+- On The Sensitivity of Firing Rate-Based Federated Spiking Neural Networks to Differential Privacy [[paper]](https://ieeexplore.ieee.org/document/11462841)
+
+- Noise-Robust Video Salient Object Detection in Spike Streams [[paper]](https://ieeexplore.ieee.org/document/11463780)
+
+- Spiking Self-Organizing Maps with Convergence Guarantees for Unsupervised Radar Signal Deinterleaving [[paper]](https://ieeexplore.ieee.org/document/11464997)
+
+- Spike-Driven Low-Power Speech Bandwidth Extension [[paper]](https://ieeexplore.ieee.org/document/11462977)
+
+- Scale-Covariant Spiking Wavelets [[paper]](https://ieeexplore.ieee.org/document/11463688)
+
+- RSORA: Spiking-Inspired Low-Rank Adaptation for Noise-Robust Vision Transformers [[paper]](https://ieeexplore.ieee.org/document/11462145)
+
+- Spiking Temporal-Enhanced Network for Zero-Shot Audio-Visual Learning [[paper]](https://ieeexplore.ieee.org/document/11464107)
+
+- ITD-Aware Binaural Spiking Networks for Sound Source Localization [[paper]](https://ieeexplore.ieee.org/document/11462810)
+
+- Spiking Attention Network: A Hybrid Neuromorphic Approach to Underwater Acoustic Localization and Zero-Shot Adaptation [[paper]](https://ieeexplore.ieee.org/document/11464621)
+
+- Towards Efficient Spiking Neural Networks: A Reliable Structured Pruning Criterion [[paper]](https://ieeexplore.ieee.org/document/11461709)
+
+- Spiking Adapter for Event-Based Action Recognition [[paper]](https://ieeexplore.ieee.org/document/11463269)
+
+- Intrinsic Neuronal Adaptation Supports Robust Spatio-Temporal Processing in Spiking Neural Networks [[paper]](https://ieeexplore.ieee.org/document/11463638)
+
+- MAR: Efficient Large Language Models Via Module-Aware Architecture Refinement [[paper]](https://ieeexplore.ieee.org/document/11464338)
+
+- SpikeBP: Efficient Spike-Driven Transformer for Blood Pressure Waveform Generation with Frequency Knowledge Distillation [[paper]](https://ieeexplore.ieee.org/document/11463807)
+
+- SGTE-SNN: Similarity-Guided Temporal Encoding for Radar Emitter Denoising and Recognition [[paper]](https://ieeexplore.ieee.org/document/11464155)
+
+- Deep Spatio-Temporal Models for Decoding Purkinje Cell Activity in Tongue Movements [[paper]](https://ieeexplore.ieee.org/document/11463094)
+
+- Orthogonal Weight Modification Enhances Learning Scalability and Convergence Efficiency Without Gradient Backpropagation [[paper]](https://ieeexplore.ieee.org/document/11464514)
+
+- WaveSpikeNet: A Wavelet-Spiking Fusion Architecture for Audio Classification on Edge Devices [[paper]](https://ieeexplore.ieee.org/document/11462706)
+
+- An Efficient Neural Network for Modeling Human Auditory Neurograms for Speech [[paper]](https://ieeexplore.ieee.org/document/11463528)
+
+- ULW-SleepNet: An Ultra-Lightweight Network for Multimodal Sleep Stage Scoring [[paper]](https://ieeexplore.ieee.org/document/11462444)
+
+- Integration of Calcium Imaging Traces via Deep Generative Modeling [[paper]](https://ieeexplore.ieee.org/document/11464071)
+
+- Bridging the Measurement–Simulation Gap in Room Acoustics with Real2sim Diffusion [[paper]](https://ieeexplore.ieee.org/document/11462704)
+
+- Resonate-and-Fire Neurons Meet EMG: Enhancing Gesture Classification with Spiking Neural Networks [[paper]](https://ieeexplore.ieee.org/document/11462339)
+
+
+
 ## PAMI-2026
 
 - SNNTracker: Online High-Speed Multi-Object Tracking With Spike Camera [[paper](https://ieeexplore.ieee.org/document/11165142/)]
@@ -305,6 +386,7 @@
 
 # 2025
 ## NeurIPS-2025
+
 - Local-Global Coupling Spiking Graph Transformer for Brain Disorders Diagnosis from Two Perspectives [[paper](https://neurips.cc/virtual/2025/loc/san-diego/116354)]
 
 - STEP: A Unified Spiking Transformer Evaluation Platform for Fair and Reproducible Benchmarking [[paper](https://neurips.cc/virtual/2025/loc/san-diego/121635)]
