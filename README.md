@@ -16,8 +16,11 @@
       <!-- 2026 -->
     <li><a href="#2026">2026</a>
       <ul>
+        <li><a href="#cvpr-2026">CVPR</a></li>
         <li><a href="#aaai-2026">AAAI</a></li>
         <li><a href="#iclr-2026">ICLR</a></li>
+        <li><a href="#icassp-2026">ICASSP</a></li>
+        <li><a href="#PAMI-2026"> PAMI </a></li>
       </ul>
     </li>
       <!-- 2025 -->
@@ -30,6 +33,7 @@
         <li><a href="#iclr-2025">ICLR</a></li>
         <li><a href="#aaai-2025">AAAI</a></li>
         <li><a href="#icassp-2025">ICASSP</a></li>
+        <li><a href="#PAMI-2025"> PAMI </a></li>
       </ul>
     </li>
       <!-- 2024 -->
@@ -152,7 +156,32 @@
 ---
 # 2026
 
+## CVPR-2026
+
+- Stable Spike: Dual Consistency Optimization via Bitwise AND Operations for Spiking Neural Networks [[paper](https://cvpr.thecvf.com/virtual/2026/poster/40215)]
+
+- Temporal Representation Enhancement (TRE): Learning to Forget Dominant Patterns for More Discriminative Spiking Features [[paper](https://cvpr.thecvf.com/virtual/2026/poster/37392)]
+
+- SpikeTrack: High-performance and Energy-efficient Event-Based Object Tracking with Spiking Neural Network [[paper](https://cvpr.thecvf.com/virtual/2026/poster/37464)]
+
+- On the Role of Temporal Granularity in the Robustness of Spiking Neural Networks [[paper](https://cvpr.thecvf.com/virtual/2026/poster/36599)]
+
+- Reconstructing Spiking Neural Networks Using a Single Neuron with Autapses [[paper](https://cvpr.thecvf.com/virtual/2026/poster/37109)]
+
+- SDTrack: A Baseline for Event-based Tracking via Spiking Neural Networks [[paper](https://cvpr.thecvf.com/virtual/2026/poster/40098)]
+
+- Robust Spiking Neural Networks by Temporal Mutual Information [[paper](https://cvpr.thecvf.com/virtual/2026/poster/38098)]
+
+- Dynamic-Static Decomposition for Novel View Synthesis of Dynamic Scenes with Spiking Neurons [[paper](https://cvpr.thecvf.com/virtual/2026/poster/38510)]
+
+- Towards Reliable Evaluation of Adversarial Robustness for Spiking Neural Networks [[paper](https://cvpr.thecvf.com/virtual/2026/poster/38348)]
+
+- Sparsely Timing the Change: A Spiking Temporal Framework for Remote Sensing Interpretation [[paper](https://cvpr.thecvf.com/virtual/2026/poster/39499)]
+
+- Temporal Interaction in Spiking Transformers with Multi-Delay Mixer [[paper](https://cvpr.thecvf.com/virtual/2026/poster/38330)]
+
 ## AAAI-2026
+
 - Spiking Heterogeneous Graph Attention Networks [[paper](https://ojs.aaai.org/index.php/AAAI/article/view/39068)] [[code](https://github.com/junjianli106/MiCo)]
 
 - Spikingformer: A Key Foundation Model for Spiking Neural Networks [[paper](https://ojs.aaai.org/index.php/AAAI/article/view/37207)] [[code](https://github.com/Auroral703/PerTouch)]
@@ -235,6 +264,7 @@
 
 
 ## ICLR-2026
+
 - Random Spiking Neural Networks are Stable and Spectrally Simple [[paper](https://openreview.net/attachment?id=Ochp5HHp46&name=pdf)]
  
 - Beyond Linear Processing: Dendritic Bilinear Integration in Spiking Neural Networks [[paper](https://openreview.net/attachment?id=5MB5vakrhB&name=pdf)]
@@ -372,7 +402,6 @@
 - Resonate-and-Fire Neurons Meet EMG: Enhancing Gesture Classification with Spiking Neural Networks [[paper]](https://ieeexplore.ieee.org/document/11462339)
 
 
-
 ## PAMI-2026
 
 - SNNTracker: Online High-Speed Multi-Object Tracking With Spike Camera [[paper](https://ieeexplore.ieee.org/document/11165142/)]
@@ -384,7 +413,9 @@
 - DSNeRF: Dynamic View Synthesis for Ultra-Fast Scenes from Continuous Spike Streams [[paper](https://ieeexplore.ieee.org/document/11361264/)]
 
 
+
 # 2025
+
 ## NeurIPS-2025
 
 - Local-Global Coupling Spiking Graph Transformer for Brain Disorders Diagnosis from Two Perspectives [[paper](https://neurips.cc/virtual/2025/loc/san-diego/116354)]
@@ -434,6 +465,7 @@
 - A Scalable, Causal, and Energy Efficient Framework for Neural Decoding with Spiking Neural Networks [[paper](https://neurips.cc/virtual/2025/loc/san-diego/116071)]
 
 - Synergy Between the Strong and the Weak: Spiking Neural Networks are Inherently Self-Distillers [[paper](https://neurips.cc/virtual/2025/loc/san-diego/119338)]
+
 
 ## ACM MM-2025
 
