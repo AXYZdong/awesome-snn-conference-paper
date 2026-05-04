@@ -8,6 +8,11 @@
 
 ❤ Thanks so much @[Ruichen0424](https://github.com/Ruichen0424) for the collaboration!
 
+🚀 Github Repo: https://github.com/AXYZdong/awesome-snn-conference-paper
+
+📖 Online Reading: https://axyzdong.github.io/awesome-snn-conference-paper
+
+
 ---
 
 <details>
