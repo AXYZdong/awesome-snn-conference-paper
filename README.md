@@ -21,9 +21,12 @@
       <!-- 2026 -->
     <li><a href="#2026">2026</a>
       <ul>
-        <li><a href="#cvpr-2026">CVPR</a></li>
-        <li><a href="#aaai-2026">AAAI</a></li>
+        <li><a href="#neurips-2026">NeurIPS</a></li>
+        <li><a href="#icml-2026">ICML</a></li>
         <li><a href="#iclr-2026">ICLR</a></li>
+        <li><a href="#aaai-2026">AAAI</a></li>
+        <li><a href="#cvpr-2026">CVPR</a></li>
+        <li><a href="#eccv-2026">ECCV</a></li>
         <li><a href="#icassp-2026">ICASSP</a></li>
         <li><a href="#PAMI-2026"> PAMI </a></li>
       </ul>
@@ -327,39 +330,63 @@
 
 - Narrowing the ANN–SNN Gap for Continuous 1D Temporal Signal Classification with Multi-Scale Temporal Encoding and Sparsity-Regularized Transform Encoding [[paper](https://openreview.net/forum?id=g0wATpD4Ic)]
 
+## ICLR-2026
 
-## ECCV-2026
+- Random Spiking Neural Networks are Stable and Spectrally Simple [[paper](https://openreview.net/attachment?id=Ochp5HHp46&name=pdf)]
+ 
+- Beyond Linear Processing: Dendritic Bilinear Integration in Spiking Neural Networks [[paper](https://openreview.net/attachment?id=5MB5vakrhB&name=pdf)]
+ 
+- Robust Spiking Neural Networks Against Adversarial Attacks [[paper](https://openreview.net/attachment?id=qTqAL2t8Aa&name=pdf)]
+ 
+- Neural Dynamics Self-Attention for Spiking Transformers [[paper](https://openreview.net/attachment?id=jJedqisfOt&name=pdf)]
+ 
+- SAFA-SNN: Sparsity-Aware On-Device Few-Shot Class-Incremental Learning with Fast-Adaptive Structure of Spiking Neural Network [[paper](https://openreview.net/attachment?id=9jcB40wjk3&name=pdf)]
+ 
+- TP-Spikformer: Token Pruned Spiking Transformer [[paper](https://openreview.net/attachment?id=L5llQD0nMf&name=pdf)]
+ 
+- Online Pseudo-Zeroth-Order Training of Neuromorphic Spiking Neural Networks [[paper](https://openreview.net/attachment?id=6ZietpbPoB&name=pdf)]
+ 
+- Spiking Discrepancy Transformer for Point Cloud Analysis [[paper](https://openreview.net/attachment?id=7Brnh0aNFn&name=pdf)]
+ 
+- Robust Selective Activation with Randomized Temporal K-Winner-Take-All in Spiking Neural Networks for Continual Learning [[paper](https://openreview.net/attachment?id=uAkexWJ7dW&name=pdf)]
+ 
+- A Brain-Inspired Gating Mechanism Unlocks Robust Computation in Spiking Neural Networks [[paper](https://openreview.net/attachment?id=5h741EyfQM&name=pdf)]
+ 
+- Difference Predictive Coding for Training Spiking Neural Networks [[paper](https://openreview.net/attachment?id=iu9dbz2lB9&name=pdf)]
+ 
+- Fractional-Order Spiking Neural Network [[paper](https://openreview.net/attachment?id=NJhBSLJ0nL&name=pdf)]
+ 
+- Distribution-Aware Multi-Granularity Phase Coding: Towards Lower Conversion Error for Spike-Driven Large Language Models [[paper](https://openreview.net/attachment?id=meDMftHUlX&name=pdf)]
+ 
+- Many Eyes, One Mind: Temporal Multi-Perspective and Progressive Distillation for Spiking Neural Networks [[paper](https://openreview.net/attachment?id=NbdEDRRsCI&name=pdf)]
+ 
+- Towards Lossless Memory-efficient Training of Spiking Neural Networks via Gradient Checkpointing and Spike Compression [[paper](https://openreview.net/attachment?id=nrBJ0Uvj7c&name=pdf)]
+ 
+- 3DSMT: A Hybrid Spiking Mamba-Transformer for Point Cloud Analysis [[paper](https://openreview.net/attachment?id=KkoS6y0pHP&name=pdf)]
+ 
+- Training Deep Normalization-Free Spiking Neural Networks with Lateral Inhibition. [[paper](https://openreview.net/attachment?id=U8preGvn5G&name=pdf)]
+ 
+- SMixer: Rethinking Efficient-Training and Event-Driven SNNs [[paper](https://openreview.net/attachment?id=78glEsQB0v&name=pdf)]
+ 
+- Otters: An Energy-Efficient Spiking Transformer via Optical Time-to-First-Spike Encoding [[paper](https://openreview.net/attachment?id=oK0ISeb5Dw&name=pdf)]
+ 
+- Pretraining with Re-parametrized Self-Attention: Unlocking Generalizationin  SNN-Based Neural Decoding Across Time, Brains, and Tasks [[paper](https://openreview.net/attachment?id=ZsvGCzpaVD&name=pdf)]
+ 
+- Robustify Spiking Neural Networks via Dominant Singular Deflation under Heterogeneous Training Vulnerability [[paper](https://openreview.net/attachment?id=EIYltBaUzL&name=pdf)]
 
-- Learn to See the Unseen in Low-light Spike Streams [[paper](https://media.eventhosts.cc/Conferences/ECCV2026/pdfs/4852.pdf)]
-
-- 340 FPS Reflection-free Video from Spikes Modulated by a Rapidly Rotating Polarizer [[paper](https://media.eventhosts.cc/Conferences/ECCV2026/pdfs/6630.pdf)]
-
-- Intrinsically Stable Spiking Neural Networks: Overcoming the Performance Barrier in the Absence of Batch Normalization [[paper](https://media.eventhosts.cc/Conferences/ECCV2026/pdfs/5635.pdf)]
-
-
-## CVPR-2026
-
-- Stable Spike: Dual Consistency Optimization via Bitwise AND Operations for Spiking Neural Networks [[paper](https://cvpr.thecvf.com/virtual/2026/poster/40215)]
-
-- Temporal Representation Enhancement (TRE): Learning to Forget Dominant Patterns for More Discriminative Spiking Features [[paper](https://cvpr.thecvf.com/virtual/2026/poster/37392)]
-
-- SpikeTrack: High-performance and Energy-efficient Event-Based Object Tracking with Spiking Neural Network [[paper](https://cvpr.thecvf.com/virtual/2026/poster/37464)]
-
-- On the Role of Temporal Granularity in the Robustness of Spiking Neural Networks [[paper](https://cvpr.thecvf.com/virtual/2026/poster/36599)]
-
-- Reconstructing Spiking Neural Networks Using a Single Neuron with Autapses [[paper](https://cvpr.thecvf.com/virtual/2026/poster/37109)]
-
-- SDTrack: A Baseline for Event-based Tracking via Spiking Neural Networks [[paper](https://cvpr.thecvf.com/virtual/2026/poster/40098)]
-
-- Robust Spiking Neural Networks by Temporal Mutual Information [[paper](https://cvpr.thecvf.com/virtual/2026/poster/38098)]
-
-- Dynamic-Static Decomposition for Novel View Synthesis of Dynamic Scenes with Spiking Neurons [[paper](https://cvpr.thecvf.com/virtual/2026/poster/38510)]
-
-- Towards Reliable Evaluation of Adversarial Robustness for Spiking Neural Networks [[paper](https://cvpr.thecvf.com/virtual/2026/poster/38348)]
-
-- Sparsely Timing the Change: A Spiking Temporal Framework for Remote Sensing Interpretation [[paper](https://cvpr.thecvf.com/virtual/2026/poster/39499)]
-
-- Temporal Interaction in Spiking Transformers with Multi-Delay Mixer [[paper](https://cvpr.thecvf.com/virtual/2026/poster/38330)]
+- Breaking Gradient Temporal Collinearity for Robust Spiking Neural Networks [[paper](https://openreview.net/attachment?id=udTDFAshNM&name=pdf)]
+ 
+- SpikeStereoNet: A Brain-Inspired Framework for Stereo Depth Estimation from Spike Streams [[paper](https://openreview.net/attachment?id=lPMPFeioCZ&name=pdf)]
+ 
+- Cannistraci-Hebb Training on Ultra-Sparse Spiking Neural Networks [[paper](https://openreview.net/attachment?id=qDLVgr8ESB&name=pdf)]
+ 
+- Biologically Plausible Learning via Bidirectional Spike-Based Distillation [[paper](https://openreview.net/attachment?id=MmWZ2xVJ7z&name=pdf)]
+ 
+- Time Is All It Takes: Spike-Retiming Attacks on Event-Driven Spiking Neural Networks [[paper](https://openreview.net/attachment?id=b107VY19Id&name=pdf)]
+ 
+- PredNext: Explicit Cross-View Temporal Prediction for Unsupervised Learning in Spiking Neural Networks [[paper](https://openreview.net/attachment?id=LjugJFmItY&name=pdf)]
+ 
+- CaRe-BN: Precise Moving Statistics for Stabilizing Spiking Neural Networks in Reinforcement Learning [[paper](https://openreview.net/attachment?id=AaZVrbElhC&name=pdf)]
 
 ## AAAI-2026
 
@@ -443,66 +470,37 @@
 
 - Robust Noise Modeling for Spike Camera via Time-Interval Quantification and Spike-DSLR Multimodal Dataset in Low-Light Imaging [[paper](https://ojs.aaai.org/index.php/AAAI/article/view/37252)]
 
+## CVPR-2026
 
-## ICLR-2026
+- Stable Spike: Dual Consistency Optimization via Bitwise AND Operations for Spiking Neural Networks [[paper](https://cvpr.thecvf.com/virtual/2026/poster/40215)]
 
-- Random Spiking Neural Networks are Stable and Spectrally Simple [[paper](https://openreview.net/attachment?id=Ochp5HHp46&name=pdf)]
- 
-- Beyond Linear Processing: Dendritic Bilinear Integration in Spiking Neural Networks [[paper](https://openreview.net/attachment?id=5MB5vakrhB&name=pdf)]
- 
-- Robust Spiking Neural Networks Against Adversarial Attacks [[paper](https://openreview.net/attachment?id=qTqAL2t8Aa&name=pdf)]
- 
-- Neural Dynamics Self-Attention for Spiking Transformers [[paper](https://openreview.net/attachment?id=jJedqisfOt&name=pdf)]
- 
-- SAFA-SNN: Sparsity-Aware On-Device Few-Shot Class-Incremental Learning with Fast-Adaptive Structure of Spiking Neural Network [[paper](https://openreview.net/attachment?id=9jcB40wjk3&name=pdf)]
- 
-- TP-Spikformer: Token Pruned Spiking Transformer [[paper](https://openreview.net/attachment?id=L5llQD0nMf&name=pdf)]
- 
-- Online Pseudo-Zeroth-Order Training of Neuromorphic Spiking Neural Networks [[paper](https://openreview.net/attachment?id=6ZietpbPoB&name=pdf)]
- 
-- Spiking Discrepancy Transformer for Point Cloud Analysis [[paper](https://openreview.net/attachment?id=7Brnh0aNFn&name=pdf)]
- 
-- Robust Selective Activation with Randomized Temporal K-Winner-Take-All in Spiking Neural Networks for Continual Learning [[paper](https://openreview.net/attachment?id=uAkexWJ7dW&name=pdf)]
- 
-- A Brain-Inspired Gating Mechanism Unlocks Robust Computation in Spiking Neural Networks [[paper](https://openreview.net/attachment?id=5h741EyfQM&name=pdf)]
- 
-- Difference Predictive Coding for Training Spiking Neural Networks [[paper](https://openreview.net/attachment?id=iu9dbz2lB9&name=pdf)]
- 
-- Fractional-Order Spiking Neural Network [[paper](https://openreview.net/attachment?id=NJhBSLJ0nL&name=pdf)]
- 
-- Distribution-Aware Multi-Granularity Phase Coding: Towards Lower Conversion Error for Spike-Driven Large Language Models [[paper](https://openreview.net/attachment?id=meDMftHUlX&name=pdf)]
- 
-- Many Eyes, One Mind: Temporal Multi-Perspective and Progressive Distillation for Spiking Neural Networks [[paper](https://openreview.net/attachment?id=NbdEDRRsCI&name=pdf)]
- 
-- Towards Lossless Memory-efficient Training of Spiking Neural Networks via Gradient Checkpointing and Spike Compression [[paper](https://openreview.net/attachment?id=nrBJ0Uvj7c&name=pdf)]
- 
-- 3DSMT: A Hybrid Spiking Mamba-Transformer for Point Cloud Analysis [[paper](https://openreview.net/attachment?id=KkoS6y0pHP&name=pdf)]
- 
-- Training Deep Normalization-Free Spiking Neural Networks with Lateral Inhibition. [[paper](https://openreview.net/attachment?id=U8preGvn5G&name=pdf)]
- 
-- SMixer: Rethinking Efficient-Training and Event-Driven SNNs [[paper](https://openreview.net/attachment?id=78glEsQB0v&name=pdf)]
- 
-- Otters: An Energy-Efficient Spiking Transformer via Optical Time-to-First-Spike Encoding [[paper](https://openreview.net/attachment?id=oK0ISeb5Dw&name=pdf)]
- 
-- Pretraining with Re-parametrized Self-Attention: Unlocking Generalizationin  SNN-Based Neural Decoding Across Time, Brains, and Tasks [[paper](https://openreview.net/attachment?id=ZsvGCzpaVD&name=pdf)]
- 
-- Robustify Spiking Neural Networks via Dominant Singular Deflation under Heterogeneous Training Vulnerability [[paper](https://openreview.net/attachment?id=EIYltBaUzL&name=pdf)]
+- Temporal Representation Enhancement (TRE): Learning to Forget Dominant Patterns for More Discriminative Spiking Features [[paper](https://cvpr.thecvf.com/virtual/2026/poster/37392)]
 
-- Breaking Gradient Temporal Collinearity for Robust Spiking Neural Networks [[paper](https://openreview.net/attachment?id=udTDFAshNM&name=pdf)]
- 
-- SpikeStereoNet: A Brain-Inspired Framework for Stereo Depth Estimation from Spike Streams [[paper](https://openreview.net/attachment?id=lPMPFeioCZ&name=pdf)]
- 
-- Cannistraci-Hebb Training on Ultra-Sparse Spiking Neural Networks [[paper](https://openreview.net/attachment?id=qDLVgr8ESB&name=pdf)]
- 
-- Biologically Plausible Learning via Bidirectional Spike-Based Distillation [[paper](https://openreview.net/attachment?id=MmWZ2xVJ7z&name=pdf)]
- 
-- Time Is All It Takes: Spike-Retiming Attacks on Event-Driven Spiking Neural Networks [[paper](https://openreview.net/attachment?id=b107VY19Id&name=pdf)]
- 
-- PredNext: Explicit Cross-View Temporal Prediction for Unsupervised Learning in Spiking Neural Networks [[paper](https://openreview.net/attachment?id=LjugJFmItY&name=pdf)]
- 
-- CaRe-BN: Precise Moving Statistics for Stabilizing Spiking Neural Networks in Reinforcement Learning [[paper](https://openreview.net/attachment?id=AaZVrbElhC&name=pdf)]
+- SpikeTrack: High-performance and Energy-efficient Event-Based Object Tracking with Spiking Neural Network [[paper](https://cvpr.thecvf.com/virtual/2026/poster/37464)]
 
+- On the Role of Temporal Granularity in the Robustness of Spiking Neural Networks [[paper](https://cvpr.thecvf.com/virtual/2026/poster/36599)]
 
+- Reconstructing Spiking Neural Networks Using a Single Neuron with Autapses [[paper](https://cvpr.thecvf.com/virtual/2026/poster/37109)]
+
+- SDTrack: A Baseline for Event-based Tracking via Spiking Neural Networks [[paper](https://cvpr.thecvf.com/virtual/2026/poster/40098)]
+
+- Robust Spiking Neural Networks by Temporal Mutual Information [[paper](https://cvpr.thecvf.com/virtual/2026/poster/38098)]
+
+- Dynamic-Static Decomposition for Novel View Synthesis of Dynamic Scenes with Spiking Neurons [[paper](https://cvpr.thecvf.com/virtual/2026/poster/38510)]
+
+- Towards Reliable Evaluation of Adversarial Robustness for Spiking Neural Networks [[paper](https://cvpr.thecvf.com/virtual/2026/poster/38348)]
+
+- Sparsely Timing the Change: A Spiking Temporal Framework for Remote Sensing Interpretation [[paper](https://cvpr.thecvf.com/virtual/2026/poster/39499)]
+
+- Temporal Interaction in Spiking Transformers with Multi-Delay Mixer [[paper](https://cvpr.thecvf.com/virtual/2026/poster/38330)]
+
+## ECCV-2026
+
+- Learn to See the Unseen in Low-light Spike Streams [[paper](https://media.eventhosts.cc/Conferences/ECCV2026/pdfs/4852.pdf)]
+
+- 340 FPS Reflection-free Video from Spikes Modulated by a Rapidly Rotating Polarizer [[paper](https://media.eventhosts.cc/Conferences/ECCV2026/pdfs/6630.pdf)]
+
+- Intrinsically Stable Spiking Neural Networks: Overcoming the Performance Barrier in the Absence of Batch Normalization [[paper](https://media.eventhosts.cc/Conferences/ECCV2026/pdfs/5635.pdf)]
 
 ## ICASSP-2026
 
@@ -581,7 +579,6 @@
 - Bridging the Measurement–Simulation Gap in Room Acoustics with Real2sim Diffusion [[paper]](https://ieeexplore.ieee.org/document/11462704)
 
 - Resonate-and-Fire Neurons Meet EMG: Enhancing Gesture Classification with Spiking Neural Networks [[paper]](https://ieeexplore.ieee.org/document/11462339)
-
 
 ## PAMI-2026
 
