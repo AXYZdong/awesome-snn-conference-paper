@@ -34,6 +34,7 @@
       <!-- 2025 -->
     <li><a href="#2025">2025</a>
       <ul>
+        <li><a href="#neurips-2025">NeurIPS</a></li>
         <li><a href="#acm-mm-2025">ACM MM</a></li>
         <li><a href="#ijcai-2025">IJCAI</a></li>
         <li><a href="#icml-2025">ICML</a></li>
