@@ -161,6 +161,92 @@
 ---
 # 2026
 
+## NeurIPS-2026
+
+- Bug or Feature$^2$: Weight Drift, Activation Sparsity, and Spikes [[paper](https://openreview.net/forum?id=o1pategtiw)]
+
+- LongSpike: Fractional Order Spiking State Space Models for Efficient Long Sequence Learning [[paper](https://openreview.net/forum?id=jkIua01azq)]
+
+- Distributed-Order Fractional Spiking Neural Network [[paper](https://openreview.net/forum?id=SDhAA8uvvX)]
+
+- All-Addition Spiking Diffusion Models with Attention Enhancement [[paper](https://openreview.net/forum?id=9bpunbjC2G)]
+
+- Efficient Brain-to-Speech Decoding with Fixed-Delay Spiking Neural Networks [[paper](https://openreview.net/forum?id=aMneDSPCzZ)]
+
+- Achieve Latency-Efficient Temporal-Coding Spiking LLMs via Discretization-Aware Conversion [[paper](https://openreview.net/forum?id=G3WiNUM5h1)]
+
+- Beyond Low-Pass Dynamics: Frequency-Selective Spiking Reservoirs with Resonant Neurons [[paper](https://openreview.net/forum?id=w4gGQ1ybW6)]
+
+- NeuroInk: Retinomorphic Spiking Sequence Modeling for Handwritten Text Recognition [[paper](https://openreview.net/forum?id=uKMBVkBuxL)]
+
+- Grokking or Glitching? How Low-Precision Drives Slingshot Loss Spikes [[paper](https://openreview.net/forum?id=fs99JEN6m5)]
+
+- Omni-SpikeDet: A Spiking Open-World Detector with Dynamic Text–Image Alignment [[paper](https://openreview.net/forum?id=Rkd6BFx0pt)]
+
+- Filtered-Trace Online Variational Training for Probabilistic Spiking Neural Networks [[paper](https://openreview.net/forum?id=LRJMHwjMmy)]
+
+- Spiking neural network initialization for scale-invariant maximization of entropy [[paper](https://openreview.net/forum?id=FKAzoZp21M)]
+
+- FiTS: Interpretable Spiking Neurons via Frequency Selectivity and Temporal Shaping [[paper](https://openreview.net/forum?id=xukoeVXJJ9)]
+
+- Spike-to-Field Mechanisms of Turbulence-Like Dynamics in Spatial Spiking Neural Networks [[paper](https://openreview.net/forum?id=vxPwfztRhd)]
+
+- BitShift-RoPE: Zero-FLOP Relative Positional Encoding for Spiking Neural Network Transformers [[paper](https://openreview.net/forum?id=hlVtSHax4T)]
+
+- SpikingGamma: Temporally Precise Online SNN Training Through Smoothed Temporal Delays [[paper](https://openreview.net/forum?id=h3Q9HOiJJg)]
+
+- Spikes as Detectors: Phase-Conditioned Spiking Dynamics for Time-Series Anomaly Detection [[paper](https://openreview.net/forum?id=U8hMwVUl0r)]
+
+- Rethinking in Spikes: Mitigating Hallucinations in MDLMs with Step-Aware Decoding [[paper](https://openreview.net/forum?id=NS7JAOxOVv)]
+
+- SpikeSSL: A Universal Spike Inference Framework with Dynamics-Informed State-Space Layers [[paper](https://openreview.net/forum?id=H9vWJVIOyQ)]
+
+- Causal pieces: analysing and improving spiking neural networks piece by piece [[paper](https://openreview.net/forum?id=vmQvISAYfP)]
+
+- Decomposing SGD Dynamics in Neural Networks: Teacher-Induced Spikes and Variance Inflation [[paper](https://openreview.net/forum?id=pCMDLPWcuw)]
+
+- Signal-Adaptive Trust Regions for Gradient-Free Optimization of Recurrent Spiking Neural Networks [[paper](https://openreview.net/forum?id=ewv4YcAxRj)]
+
+- Parallel Fixed-Point Spiking Neurons for Efficient Training of Spiking Neural Networks [[paper](https://openreview.net/forum?id=aUNVuXFPLe)]
+
+- Understanding the Convergence of Direct Training of SNNs with Surrogate Gradients [[paper](https://openreview.net/forum?id=QNkfQ8wsii)]
+
+- Efficient Training of Deep Spiking Neural Networks with Input-Driven Derivative-Free Updates [[paper](https://openreview.net/forum?id=Q8vwmOQdzh)]
+
+- SpikeSTAG: A Dendritic Compartmental Spiking Graph Network for Multivariate Time-Series Forecasting [[paper](https://openreview.net/forum?id=L0HRufAy5B)]
+
+- Attention Sinks as Spectral Spikes: A Mechanism Analysis of Gated Attention [[paper](https://openreview.net/forum?id=KJKRoPhwQg)]
+
+- Spike-SFT: Selective Parameter Enhancement and Fusion for Efficient Spiking Neural Networks [[paper](https://openreview.net/forum?id=3Td9h2rVyH)]
+
+- Neuronal Self-Adaptation Enhances Capacity and Robustness of Representation in Spiking Neural Networks [[paper](https://openreview.net/forum?id=zcRb4le7TY)]
+
+- The Dormant Spiking Neuron: A State-Driven Mechanism for Efficient Spiking Neural Networks [[paper](https://openreview.net/forum?id=fmUnrAKlSL)]
+
+- Do Not Let Spikes Flip: Margin-Resculpted Learning for Robust Spiking Neural Networks [[paper](https://openreview.net/forum?id=R7E5DE5F3A)]
+
+- Vibe-Spike: An Energy-Preserving EEG Foundation Model Through the Landscape of Neural Coherence [[paper](https://openreview.net/forum?id=C1hqOzVwCn)]
+
+- Membrane Sensitivity and Deployment Fragility of Learnable Time Constants in Spiking Neural Networks [[paper](https://openreview.net/forum?id=wa6O4eAtIZ)]
+
+- SICAF: Time-Varying Focus Bottleneck for Self-Supervised Event-Based Optical Flow with Spiking Neural Network [[paper](https://openreview.net/forum?id=SNh0Hj5bcG)]
+
+- Decoupling Label Shift and Surrogate Gradient Errors for Robust Federated Spiking Neural Networks [[paper](https://openreview.net/forum?id=DuuJjNysv1)]
+
+- Capturing Membrane Dynamics and Spike Timing of Human Neurons at Scale using Neural Operators [[paper](https://openreview.net/forum?id=sxhx4suoIl)]
+
+- When evolution cheats: Frozen-weights Baselines reveal static-solvers interference in evolved plastic spiking neural networks [[paper](https://openreview.net/forum?id=eM1YG0hXNB)]
+
+- Timing Is All You Need: SpikeCore, Learnable Delays, and Gain Control for Neuromorphic Classification [[paper](https://openreview.net/forum?id=a0D5EMqlKF)]
+
+- Spik-NeRF v2: Pushing the Limit of Spiking Neural Radiance Fields with $ \pm $I-LIF [[paper](https://openreview.net/forum?id=TgMxtkRB75)]
+
+- Rare Events, Real Signals: Functional Ensembles as Units of Computation in Deep Spiking Networks [[paper](https://openreview.net/forum?id=KnYG3WQcqz)]
+
+- Learning to play with spikes. Characterizing, predicting, and engineering unsupervised plasticity rules for spiking reservoir computing [[paper](https://openreview.net/forum?id=tgSNcsvbz9)]
+
+- From Cortical Synchronous Rhythm to Brain Inspired Learning Mechanism: An Oscillatory Spiking Neural Network with Time-Delayed Coordination [[paper](https://openreview.net/forum?id=aAslvH1QJK)]
+
 ## ICML-2026
 
 - Efficiently Training Time-to-First-Spike Spiking Neural Networks from Scratch [[paper](https://openreview.net/forum?id=3EcT46wsdc)]
