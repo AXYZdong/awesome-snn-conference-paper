@@ -161,6 +161,15 @@
 ---
 # 2026
 
+## ECCV-2026
+
+- Learn to See the Unseen in Low-light Spike Streams [[paper](https://media.eventhosts.cc/Conferences/ECCV2026/pdfs/4852.pdf)]
+
+- 340 FPS Reflection-free Video from Spikes Modulated by a Rapidly Rotating Polarizer [[paper](https://media.eventhosts.cc/Conferences/ECCV2026/pdfs/6630.pdf)]
+
+- Intrinsically Stable Spiking Neural Networks: Overcoming the Performance Barrier in the Absence of Batch Normalization [[paper](https://media.eventhosts.cc/Conferences/ECCV2026/pdfs/5635.pdf)]
+
+
 ## CVPR-2026
 
 - Stable Spike: Dual Consistency Optimization via Bitwise AND Operations for Spiking Neural Networks [[paper](https://cvpr.thecvf.com/virtual/2026/poster/40215)]
