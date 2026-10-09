@@ -161,6 +161,87 @@
 ---
 # 2026
 
+## ICML-2026
+
+- Efficiently Training Time-to-First-Spike Spiking Neural Networks from Scratch [[paper](https://openreview.net/forum?id=3EcT46wsdc)]
+
+- SmoothSpike: Spiking Transformer with Learnable Hadamard Transformation [[paper](https://openreview.net/forum?id=UoUKCLHjRa)]
+
+- SVL: Empowering Spiking Neural Networks for Efficient 3D Open-World Understanding [[paper](https://openreview.net/forum?id=Ai3a79cTvr)]
+
+- Training Deep Spiking Neural Networks without Normalization [[paper](https://openreview.net/forum?id=fSV4XWhMB3)]
+
+- Positional Encoding for Spiking Transformers [[paper](https://openreview.net/forum?id=tr8Qv2X5pq)]
+
+- Adaptive Preconditioners Trigger Loss Spikes in Adam [[paper](https://openreview.net/forum?id=STWQoscanw)]
+
+- Spike Camera Autofocus via Frequency-Domain Spectral-Centroid Migration [[paper](https://openreview.net/forum?id=HNODd5L2Tv)]
+
+- SpikeVLA: Vision-Language-Action Models with Spiking Neural Networks [[paper](https://openreview.net/forum?id=W86R5sIsxE)]
+
+- Combinatorial Sparse PCA Beyond the Spiked Identity Model [[paper](https://openreview.net/forum?id=Kk5UZgkWFx)]
+
+- Error Amplification Limits ANN-to-SNN Conversion in Continuous Control [[paper](https://openreview.net/forum?id=goVeG3ui1Y)]
+
+- Frequency Matching in Spiking Neural Networks for mmWave Sensing [[paper](https://openreview.net/forum?id=kOgsGq2mfC)]
+
+- TEFormer: Structured Bidirectional Temporal Enhancement Modeling in Spiking Transformers [[paper](https://openreview.net/forum?id=v0AkeYfQGq)]
+
+- Plug-and-Play Spiking Operators: Breaking the Nonlinearity Bottleneck in Spiking Transformers [[paper](https://openreview.net/forum?id=l4nKEbhHKh)]
+
+- Bullet Trains: Parallelizing Training of Temporally Precise Spiking Neural Networks [[paper](https://openreview.net/forum?id=GQIorrRZGv)]
+
+- A$^2$SG: Adaptive and Asymmetric Surrogate Gradients for Training Deep Spiking Neural Networks [[paper](https://openreview.net/forum?id=4fX2DEypNL)]
+
+- SpikingLM: Towards Fully Spiking Language Model [[paper](https://openreview.net/forum?id=RirE9gm77w)]
+
+- High-Fidelity ANN-to-SNN Conversion via Closed-Loop CKA Distillation [[paper](https://openreview.net/forum?id=35eaElDnaD)]
+
+- LIF Recurrent Memory Enables Long-Horizon Spiking Computation [[paper](https://openreview.net/forum?id=xwQytK4Yio)]
+
+- AdaS: Adaptive Gradient Descent for Spiking Transformers [[paper](https://openreview.net/forum?id=iQjyBjSDFp)]
+
+- Efficient Transformer Attention for SNNs via Hadamard Simplification [[paper](https://openreview.net/forum?id=T2obc33ton)]
+
+- Trajectory-Aware Spiking DiTs Conversion via Membrane Potential Error-Feedback [[paper](https://openreview.net/forum?id=nsd26wlIGP)]
+
+- Zeroth-Order Forward-Only SNN Training Inspiring Neuromorphic On-Chip Learning [[paper](https://openreview.net/forum?id=w65t2ZDF3A)]
+
+- Spike-HTR: Spiking Neural Transformer for Handwritten Text Recognition [[paper](https://openreview.net/forum?id=3UcWAgr0jx)]
+
+- SMM Transformer: Leveraging Spiking Neural Networks for Multimodal Tasks [[paper](https://openreview.net/forum?id=aQmrtnFhqw)]
+
+- Spiked-CFR: Causal Representation Learning from LLMs via Wasserstein Projection Pursuit [[paper](https://openreview.net/forum?id=LqXY6aCtkA)]
+
+- Temporal Weighted Encoding: Towards Maximal-Capacity Spike Coding for ANN–SNN Conversion [[paper](https://openreview.net/forum?id=ixb50TfWoM)]
+
+- Bio-Vision-Inspired Spiking Neural Networks for Object Detection with Event Cameras [[paper](https://openreview.net/forum?id=MoQiswth2n)]
+
+- Emergent Visual Representations through Unsupervised Spiking Networks with Synaptic Pruning [[paper](https://openreview.net/forum?id=rWsxUWGScc)]
+
+- Rethinking Attention in Spiking Transformers: Overcoming Density Bias with Set Similarity [[paper](https://openreview.net/forum?id=8clCPAImE3)]
+
+- SpikeCLR: Self-Supervised Contrastive Learning for Visual Representations with Spiking Neural Networks [[paper](https://openreview.net/forum?id=n3Rj1wRtlE)]
+
+- Column Thresholding for Sparse Spiked Wigner Models: Improved Signal Strength Requirements [[paper](https://openreview.net/forum?id=lsnjzAuTZj)]
+
+- A Spiking Heterogeneous Harmonic Resonate-and-Fire State Space Model for Time Series [[paper](https://openreview.net/forum?id=dDGxzaRkxO)]
+
+- UniSparse: Combining Weight Pruning and Spike Sparsification in Spiking Neural Networks [[paper](https://openreview.net/forum?id=MliujooUya)]
+
+- UltraLIF: Fully Differentiable Spiking Neural Networks via Ultradiscretization and Max-Plus Algebra [[paper](https://openreview.net/forum?id=QdDli9UoLK)]
+
+- Spik4lite: Refactoring Neuromorphic Sparsity for Efficient Spiking Neural Networks on Commodity Edge Devices [[paper](https://openreview.net/forum?id=WRP7d18h9t)]
+
+- Resolving the Timestep Scaling Paradox in Spiking Neural Networks with a Timestep-Scalable Neuron Model [[paper](https://openreview.net/forum?id=U63l7Uyeel)]
+
+- SpikeNet: Sparse Spike-Driven Mask Vector Transformer for Energy-Efficient and Stable Spiking Point Cloud Processing [[paper](https://openreview.net/forum?id=7BpcmBjQL0)]
+
+- Practical Mechanism for Fault-Tolerant Spiking Neural Networks via Simple Input Control Based on Learnable Fragmentation [[paper](https://openreview.net/forum?id=px1MlO0g26)]
+
+- Narrowing the ANN–SNN Gap for Continuous 1D Temporal Signal Classification with Multi-Scale Temporal Encoding and Sparsity-Regularized Transform Encoding [[paper](https://openreview.net/forum?id=g0wATpD4Ic)]
+
+
 ## ECCV-2026
 
 - Learn to See the Unseen in Low-light Spike Streams [[paper](https://media.eventhosts.cc/Conferences/ECCV2026/pdfs/4852.pdf)]
